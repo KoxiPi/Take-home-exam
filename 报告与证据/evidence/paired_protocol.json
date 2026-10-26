@@ -1,0 +1,27 @@
+{
+  "purpose": "Inference-only paired validation of fixed checkpoints",
+  "seeds": [
+    202,
+    303,
+    404
+  ],
+  "questions": 128,
+  "batch_size": 1,
+  "sampling_steps": 32,
+  "sequence_length": 512,
+  "checkpoints": {
+    "sft": "/home/chen/projects/s-flm/outputs/sft_sepfix_20261022_171041_876248/checkpoints/best-step000400.ckpt",
+    "rl": "/home/chen/projects/s-flm/outputs/rl_pilot64_20261022_174012_898690/group016.ckpt"
+  },
+  "weights": {
+    "sft": "SFT EMA",
+    "rl": "Current RL parameters mirrored in EMA export"
+  },
+  "selection": "group016 selected previously with validation seed123; no selection using these new seeds.",
+  "validation_sha256": "a0a1d990abf0bfebe311e78cc43037198887f9fc19f78f127aa696d7b82d6a6b",
+  "limitations": [
+    "Same 128 validation questions reused; not a new held-out dataset.",
+    "Three samples/question/model are not 384 independent questions.",
+    "No formal significance or generalization claim from these small paired runs."
+  ]
+}

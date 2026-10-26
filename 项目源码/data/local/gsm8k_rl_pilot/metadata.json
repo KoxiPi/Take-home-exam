@@ -1,0 +1,29 @@
+{
+  "dataset": "openai/gsm8k",
+  "subset": "main",
+  "source_split": "train",
+  "revision": "740312add88f781978c0658806c59bc2815b9866",
+  "seed": 42,
+  "counts": {
+    "input": 7473
+  },
+  "eligible": 7473,
+  "rl_train": 512,
+  "rl_valid": 128,
+  "reserve": 6833,
+  "output_sha256": {
+    "train.json": "ea2c4b82a1d9b6a738ca8832c690b26ef26c2bcb207e9a2eee7efd7d3b2224e4",
+    "valid.json": "a0a1d990abf0bfebe311e78cc43037198887f9fc19f78f127aa696d7b82d6a6b",
+    "reserve.json": "59685646ed0a729e9b8335d6203dbfb12e677c3259a2d24d432ba92fb9c3c388"
+  },
+  "exclusion_file_sha256": {
+    "data/gsm8k_test.json": "c93390d9990e8232ef01ec74153f8164f8a277ceffec30523b08a843861b001c",
+    "data/local/tinygsm_sft_pilot/train.json": "99828a290538616da709559c8d569557b3af4ad0b157643cafd0e932cc54a73b",
+    "data/local/tinygsm_sft_pilot/valid.json": "dbfbdde3eba9a0a88cdcba08b534b96eebec3c3259daf660fcce9144d15b9c4e"
+  },
+  "limitations": [
+    "Only normalized exact question overlaps are excluded.",
+    "Original pretraining exposure is unknown.",
+    "Prompt token lengths will be checked before generation."
+  ]
+}

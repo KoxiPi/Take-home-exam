@@ -1,0 +1,30 @@
+[
+  {
+    "model": "原始 MDLM（TinyGSM 预训练）",
+    "project_path": "checkpoints/tinygsm/mdlm.ckpt",
+    "included": false,
+    "bytes": 2688828376,
+    "download": "https://huggingface.co/jdeschena/s-flm/tree/main （仓库内 tinygsm/mdlm.ckpt）",
+    "note": "公开上游权重，未重复打包；放到项目 checkpoints/tinygsm/mdlm.ckpt"
+  },
+  {
+    "model": "SFT 第 400 步（报告评测所用）",
+    "project_path": "outputs/sft_sepfix_20261022_171041_876248/checkpoints/best-step000400.ckpt",
+    "included": true,
+    "package_path": "项目源码/outputs/sft_sepfix_20261022_171041_876248/checkpoints/best-step000400.ckpt",
+    "bytes": 1345279577,
+    "sha256": "beda166a89a57ebf063c0e6bc8bb1c9242a61d751f52e0b90d2769248fbf7362",
+    "original_bytes": 2688833125,
+    "original_sha256": "6c3614640ac96e3bb9fac6bfa853c64aa71a76761da3ae368a64198b7d07a044",
+    "note": "为减小体积删除了 optimizer_states，并新增 export_note 字段；state_dict（普通权重）、ema（EMA 权重）、hyper_parameters、global_step 等其余内容与原文件逐项一致。可用于评测、生成和作为 RL 起点，不能从断点恢复 SFT 训练。"
+  },
+  {
+    "model": "SFT + RL group016（报告评测所用）",
+    "project_path": "outputs/rl_pilot64_20261022_174012_898690/group016.ckpt",
+    "included": true,
+    "package_path": "项目源码/outputs/rl_pilot64_20261022_174012_898690/group016.ckpt",
+    "bytes": 1345262400,
+    "sha256": "68fdbfc93d938d08ff86249f92e7eab83f099d4e619893af8380d042315573c6",
+    "note": "原文件原样复制。训练时即未保存 optimizer 状态；当前 RL 参数同时写在 state_dict 和 EMA 槽中，以兼容原评测接口。"
+  }
+]

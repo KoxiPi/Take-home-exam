@@ -1,0 +1,31 @@
+{
+  "counts": {
+    "input": 12000,
+    "over_512_tokens": 16,
+    "duplicate_question": 10
+  },
+  "accepted": 11974,
+  "train": 10777,
+  "valid": 1197,
+  "split_seed": 42,
+  "max_tokens": 512,
+  "separator": "\\n",
+  "separator_token_ids": [
+    76,
+    94
+  ],
+  "source_metadata": "/home/chen/projects/s-flm/data/local/tinygsm_sft_pilot/prepare_metadata.json",
+  "tokenizer": "HuggingFaceTB/SmolLM-135M",
+  "tokenizer_revision": "1d461723eec654e65efdc40cf49301c89c0c92f4",
+  "raw_sha256": "bd958154067e3be0fea39955b08b1f1d622083e9fc3184ec18ceb4c8593e0e2a",
+  "test_file_sha256": "c93390d9990e8232ef01ec74153f8164f8a277ceffec30523b08a843861b001c",
+  "output_sha256": {
+    "train.json": "99828a290538616da709559c8d569557b3af4ad0b157643cafd0e932cc54a73b",
+    "valid.json": "dbfbdde3eba9a0a88cdcba08b534b96eebec3c3259daf660fcce9144d15b9c4e"
+  },
+  "limitations": [
+    "Mathematical correctness not verified.",
+    "Only normalized exact question overlap is excluded.",
+    "Validation may have been seen during original pretraining."
+  ]
+}

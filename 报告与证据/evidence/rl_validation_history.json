@@ -1,0 +1,61 @@
+[
+  {
+    "label": "before_rl",
+    "groups_processed": 0,
+    "optimizer_steps": 0,
+    "num_correct": 11,
+    "num_total": 128,
+    "accuracy": 0.0859375,
+    "seed": 123,
+    "batch_size": 1,
+    "seconds": 44.72135900600006
+  },
+  {
+    "label": "group016",
+    "groups_processed": 16,
+    "optimizer_steps": 10,
+    "num_correct": 10,
+    "num_total": 128,
+    "accuracy": 0.078125,
+    "seed": 123,
+    "batch_size": 1,
+    "seconds": 40.343899772999976,
+    "checkpoint": "/home/chen/projects/s-flm/outputs/rl_pilot64_20261022_174012_898690/group016.ckpt"
+  },
+  {
+    "label": "group032",
+    "groups_processed": 32,
+    "optimizer_steps": 26,
+    "num_correct": 10,
+    "num_total": 128,
+    "accuracy": 0.078125,
+    "seed": 123,
+    "batch_size": 1,
+    "seconds": 39.40092979500059,
+    "checkpoint": "/home/chen/projects/s-flm/outputs/rl_pilot64_20261022_174012_898690/group032.ckpt"
+  },
+  {
+    "label": "group048",
+    "groups_processed": 48,
+    "optimizer_steps": 36,
+    "num_correct": 10,
+    "num_total": 128,
+    "accuracy": 0.078125,
+    "seed": 123,
+    "batch_size": 1,
+    "seconds": 39.52192735599965,
+    "checkpoint": "/home/chen/projects/s-flm/outputs/rl_pilot64_20261022_174012_898690/group048.ckpt"
+  },
+  {
+    "label": "group064",
+    "groups_processed": 64,
+    "optimizer_steps": 48,
+    "num_correct": 10,
+    "num_total": 128,
+    "accuracy": 0.078125,
+    "seed": 123,
+    "batch_size": 1,
+    "seconds": 39.55705712500003,
+    "checkpoint": "/home/chen/projects/s-flm/outputs/rl_pilot64_20261022_174012_898690/group064.ckpt"
+  }
+]

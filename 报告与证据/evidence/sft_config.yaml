@@ -1,0 +1,164 @@
+mode: train
+sudoku:
+  output_dir: /home/chen/projects/s-flm/sudoku_eval
+  batch_size: 64
+gsm8k:
+  input_file: null
+  output_dir: /home/chen/projects/s-flm/gsm8k_eval
+  timeout: 5.0
+  bootstrap_size: 1
+seed: 42
+allow_tf32: true
+cudnn_benchmark: true
+compile_backbone: false
+neg_infinity_mode: large-finite
+loader:
+  global_batch_size: 16
+  eval_global_batch_size: 16
+  batch_size: 4
+  eval_batch_size: 2
+  num_workers: 1
+  pin_memory: true
+confidence_denoiser:
+  confidence_score: entropy
+  gamma: 0
+training:
+  ema: 0.9999
+  antithetic_sampling: true
+  importance_sampling: false
+  sampling_eps: 0.001
+  change_of_variables: false
+  loss_precision: bf16
+  finetune_path: /home/chen/projects/s-flm/checkpoints/tinygsm/mdlm.ckpt
+  sampling_eps_min: 0.001
+  sampling_eps_max: 1.0
+  resample: false
+eval:
+  checkpoint_path: ''
+  strict_loading: true
+  disable_ema: false
+  compute_generative_perplexity: false
+  perplexity_batch_size: 8
+  compute_perplexity_on_sanity: false
+  gen_ppl_eval_model_name_or_path: gpt2-large
+  generate_samples: false
+  generated_samples_path: /home/chen/projects/s-flm/samples.json
+  results_json_path: null
+optim:
+  weight_decay: 0
+  lr: 1.0e-05
+  beta1: 0.9
+  beta2: 0.999
+  eps: 1.0e-08
+trainer:
+  _target_: lightning.Trainer
+  accelerator: cuda
+  num_nodes: 1
+  devices: 1
+  accumulate_grad_batches: 4
+  gradient_clip_val: 1.0
+  precision: bf16-mixed
+  num_sanity_val_steps: 2
+  max_steps: 1000
+  log_every_n_steps: 1
+  limit_train_batches: 1.0
+  limit_val_batches: 1.0
+  val_check_interval: 800
+  check_val_every_n_epoch: null
+wandb:
+  project: debug
+  notes: null
+  group: null
+  job_type: null
+  tags:
+  - log-linear
+  - tiny_gsm
+  - tiny_gsm
+  - mdlm
+checkpointing:
+  save_dir: /home/chen/projects/s-flm/outputs/sft_sepfix_20261022_171041_876248
+  resume_from_ckpt: false
+  resume_ckpt_path: /home/chen/projects/s-flm/outputs/sft_sepfix_20261022_171041_876248/checkpoints/last.ckpt
+callbacks:
+  checkpoint_every_n_steps:
+    _target_: lightning.pytorch.callbacks.ModelCheckpoint
+    save_top_k: -1
+    save_last: true
+    dirpath: /home/chen/projects/s-flm/outputs/sft_sepfix_20261022_171041_876248/checkpoints
+    verbose: true
+    auto_insert_metric_name: false
+    every_n_train_steps: 500
+  checkpoint_monitor:
+    _target_: lightning.pytorch.callbacks.ModelCheckpoint
+    monitor: val/nll
+    mode: min
+    save_top_k: 1
+    save_last: false
+    dirpath: /home/chen/projects/s-flm/outputs/sft_sepfix_20261022_171041_876248/checkpoints
+    filename: best
+    auto_insert_metric_name: false
+    verbose: true
+  learning_rate_monitor:
+    _target_: lightning.pytorch.callbacks.LearningRateMonitor
+    logging_interval: step
+data:
+  train: tiny_gsm
+  valid: tiny_gsm
+  tokenizer_name_or_path: /home/chen/projects/s-flm/outputs/sft_sepfix_20261022_171041_876248/tokenizer
+  cache_dir: /share/kuleshov/ssahoo/textdiffusion/data
+  wrap: false
+  streaming: false
+  insert_train_eos: true
+  insert_valid_eos: true
+  separator: \n
+  train_on_prompt: false
+  train_on_pad: false
+  val_ratio: 0.01
+  val_seed: 42
+  filter_too_long: true
+model:
+  name: small
+  type: dit
+  hidden_size: 768
+  cond_dim: 128
+  length: 512
+  n_blocks: 12
+  n_heads: 12
+  dropout: 0.1
+strategy:
+  _target_: lightning.pytorch.strategies.DDPStrategy
+  find_unused_parameters: false
+noise:
+  type: log-linear
+  eps: 0.001
+  alpha_min: null
+  alpha_max: null
+  adaptive: false
+lr_scheduler:
+  _target_: transformers.get_constant_schedule_with_warmup
+  num_warmup_steps: 50
+prior:
+  type: none
+  latent_width: 0
+  latent_height: 0
+algo:
+  name: mdlm
+  diffusion_type: absorbing
+  backbone: dit
+  parameterization: subs
+  time_conditioning: false
+  T: 0
+  causal_attention: false
+  loss_type: elbo
+  post_process_mode: log_probs
+  adaLN: true
+sampler:
+  predictor: ancestral
+  steps: 1024
+  steps_policy: full
+  noise_removal: ancestral
+  use_float64: true
+  p_nucleus: 1.0
+  temperature: 1.0
+  num_sample_batches: 2
+  num_sample_log: 2

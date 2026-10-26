@@ -1,0 +1,8 @@
+{
+  "dataset": "TinyGSM/TinyGSM",
+  "revision": "5049a7840fa546985eaae4c698d5daf6fdf7b47d",
+  "source_split": "train",
+  "selection": "first 12000 rows; not a random sample",
+  "num_rows": 12000,
+  "sha256": "bd958154067e3be0fea39955b08b1f1d622083e9fc3184ec18ceb4c8593e0e2a"
+}

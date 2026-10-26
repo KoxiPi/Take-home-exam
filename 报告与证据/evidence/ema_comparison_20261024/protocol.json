@@ -1,0 +1,19 @@
+{
+  "checkpoint": "/home/chen/projects/s-flm/outputs/sft_sepfix_20261022_171041_876248/checkpoints/best-step000400.ckpt",
+  "seeds": [
+    202,
+    303,
+    404
+  ],
+  "questions": 128,
+  "sampling_steps": 32,
+  "batch_size": 1,
+  "sequence_length": 512,
+  "validation_sha256": "a0a1d990abf0bfebe311e78cc43037198887f9fc19f78f127aa696d7b82d6a6b",
+  "purpose": "EMA versus stored non-EMA weights; no training",
+  "limitations": [
+    "Previously used validation questions and seeds.",
+    "384 samples per weight variant are not 384 independent questions.",
+    "Exploratory diagnostic, not a final test evaluation."
+  ]
+}

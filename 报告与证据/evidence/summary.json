@@ -1,0 +1,118 @@
+{
+  "status": "completed",
+  "rescored_totals_match": true,
+  "test_scores": {
+    "Original MDLM": {
+      "correct": 73,
+      "total": 1319,
+      "accuracy": 0.05534495830174375,
+      "raw_python_compiles": 716
+    },
+    "SFT": {
+      "correct": 70,
+      "total": 1319,
+      "accuracy": 0.05307050796057619,
+      "raw_python_compiles": 704
+    },
+    "SFT + RL": {
+      "correct": 74,
+      "total": 1319,
+      "accuracy": 0.056103108415466264,
+      "raw_python_compiles": 721
+    }
+  },
+  "test_changes": [
+    {
+      "before": "Original MDLM",
+      "after": "SFT",
+      "gained": 5,
+      "lost": 8,
+      "net": -3,
+      "gained_test_indices": [
+        194,
+        472,
+        618,
+        834,
+        898
+      ],
+      "lost_test_indices": [
+        90,
+        168,
+        208,
+        975,
+        1027,
+        1119,
+        1272,
+        1291
+      ]
+    },
+    {
+      "before": "SFT",
+      "after": "SFT + RL",
+      "gained": 7,
+      "lost": 3,
+      "net": 4,
+      "gained_test_indices": [
+        139,
+        168,
+        600,
+        1027,
+        1055,
+        1272,
+        1291
+      ],
+      "lost_test_indices": [
+        48,
+        834,
+        898
+      ]
+    },
+    {
+      "before": "Original MDLM",
+      "after": "SFT + RL",
+      "gained": 6,
+      "lost": 5,
+      "net": 1,
+      "gained_test_indices": [
+        139,
+        194,
+        472,
+        600,
+        618,
+        1055
+      ],
+      "lost_test_indices": [
+        48,
+        90,
+        208,
+        975,
+        1119
+      ]
+    }
+  ],
+  "sft_total_updates": 1000,
+  "selected_sft_step": 400,
+  "rl_total_updates": 48,
+  "selected_rl_updates": 10,
+  "sft_fit_seconds": 347.4418895839999,
+  "rl_total_seconds_including_validation_and_saving": 338.67682286700074,
+  "sft_peak_allocated_GiB": 6.87362813949585,
+  "rl_peak_allocated_GiB": 3.964414596557617,
+  "paired_validation_sft_correct": 26,
+  "paired_validation_rl_correct": 26,
+  "figures": [
+    "01_test_comparison",
+    "02_sft_curves",
+    "03_rl_curves",
+    "04_multiseed_validation"
+  ],
+  "notes": [
+    "Saved accuracy_se=0 means bootstrap disabled, not zero uncertainty.",
+    "Raw-text compilation is a diagnostic, distinct from official code extraction/scoring.",
+    "Selected RL checkpoint has 10 updates; whole pilot has 48.",
+    "Single-seed test gains do not prove stable improvement.",
+    "Online reward groups contain different questions, not a fixed-set learning curve.",
+    "Historical separator-mismatched SFT excluded from corrected primary comparison."
+  ],
+  "output_dir": "/home/chen/projects/s-flm/analysis/experiment_evidence_20261023_111852_802371"
+}

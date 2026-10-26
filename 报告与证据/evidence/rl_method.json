@@ -1,0 +1,13 @@
+{
+  "name": "MDLM adaptation of diffu-GRPO",
+  "source": "https://arxiv.org/html/2504.12216v2",
+  "probability_estimator": "One-step unmasking; completion fully masked; shared random prompt mask.",
+  "advantage": "reward minus group mean; no standard-deviation normalization",
+  "regularizer": "Exact categorical KL(current||fixed reference) of the one-step surrogate, averaged over suffix positions.",
+  "approximation": "Surrogate probabilities are NOT exact 32-step generated sequence probabilities.",
+  "completion_scope": "All generated suffix positions through length 512; no EOS truncation, matching existing full-suffix scorer.",
+  "initialization": "Materialize SFT EMA once; no EMA swaps or EMA averaging during RL.",
+  "export": "Current RL weights mirrored to EMA slot for compatibility with project evaluation.",
+  "training_selection": "Fixed random sample of 64/512 training questions, seed 42; all equal-reward groups skip both policy and KL-only updates.",
+  "changes_from_paper": "MDLM 167M, code-execution binary reward, fixed 512-token full sequence, exact surrogate categorical KL, two inner updates."
+}

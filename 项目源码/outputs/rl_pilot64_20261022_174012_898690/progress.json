@@ -1,0 +1,8 @@
+{
+  "groups_processed": 64,
+  "optimizer_steps": 48,
+  "mixed_groups": 24,
+  "best_rl_checkpoint": "/home/chen/projects/s-flm/outputs/rl_pilot64_20261022_174012_898690/group016.ckpt",
+  "baseline_correct": 11,
+  "best_rl_correct": 10
+}

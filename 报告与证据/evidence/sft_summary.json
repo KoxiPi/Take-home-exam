@@ -1,0 +1,27 @@
+{
+  "purpose": "Separator-corrected SFT pilot: 1000 optimizer steps",
+  "separator": "\\n",
+  "separator_token_ids": [
+    76,
+    94
+  ],
+  "initial_checkpoint": "/home/chen/projects/s-flm/checkpoints/tinygsm/mdlm.ckpt",
+  "global_step": 1000,
+  "batch_size": 4,
+  "gradient_accumulation": 4,
+  "effective_batch_size": 16,
+  "learning_rate": 1e-05,
+  "warmup_steps": 50,
+  "train_rows": 10777,
+  "valid_rows": 1197,
+  "validation_scope": "full validation set",
+  "validation_every_optimizer_steps": 200,
+  "ema_decay": 0.9999,
+  "best_checkpoint": "/home/chen/projects/s-flm/outputs/sft_sepfix_20261022_171041_876248/checkpoints/best-step000400.ckpt",
+  "best_val_nll": 0.1762108006301038,
+  "probe_parameter": "sigma_map.mlp.0.weight",
+  "probe_max_abs_change": 0.0010378062725067139,
+  "fit_seconds": 347.4418895839999,
+  "peak_allocated_GiB": 6.87362813949585,
+  "checkpoint": "/home/chen/projects/s-flm/outputs/sft_sepfix_20261022_171041_876248/sft_final.ckpt"
+}

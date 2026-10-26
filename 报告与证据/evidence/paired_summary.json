@@ -1,0 +1,49 @@
+{
+  "status": "completed",
+  "purpose": "Fixed-checkpoint paired validation; no training",
+  "seeds": [
+    202,
+    303,
+    404
+  ],
+  "unique_questions": 128,
+  "samples_per_model": 384,
+  "sft_correct_total": 26,
+  "rl_correct_total": 26,
+  "sft_mean_accuracy": 0.06770833333333333,
+  "rl_mean_accuracy": 0.06770833333333333,
+  "net_correct": 0,
+  "paired_results": [
+    {
+      "seed": 202,
+      "sft_correct": 9,
+      "rl_correct": 7,
+      "num_questions": 128,
+      "gained": 0,
+      "lost": 2,
+      "net": -2
+    },
+    {
+      "seed": 303,
+      "sft_correct": 8,
+      "rl_correct": 10,
+      "num_questions": 128,
+      "gained": 2,
+      "lost": 0,
+      "net": 2
+    },
+    {
+      "seed": 404,
+      "sft_correct": 9,
+      "rl_correct": 9,
+      "num_questions": 128,
+      "gained": 1,
+      "lost": 1,
+      "net": 0
+    }
+  ],
+  "seconds": 236.66119793500002,
+  "peak_allocated_GiB": 1.6876554489135742,
+  "output_dir": "/home/chen/projects/s-flm/outputs/rl_paired_validation_20261022_184343_237956",
+  "interpretation": "Repeated sampling on the same validation questions; not GSM8K test scores."
+}

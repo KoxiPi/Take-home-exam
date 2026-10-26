@@ -1,0 +1,23 @@
+[
+  {
+    "seed": 202,
+    "ema_correct": 9,
+    "raw_correct": 4,
+    "raw_gained": 2,
+    "raw_lost": 7
+  },
+  {
+    "seed": 303,
+    "ema_correct": 8,
+    "raw_correct": 5,
+    "raw_gained": 2,
+    "raw_lost": 5
+  },
+  {
+    "seed": 404,
+    "ema_correct": 9,
+    "raw_correct": 3,
+    "raw_gained": 2,
+    "raw_lost": 8
+  }
+]

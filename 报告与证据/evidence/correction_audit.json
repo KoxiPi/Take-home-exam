@@ -1,0 +1,20 @@
+{
+  "source": "/home/chen/projects/s-flm/outputs/sft_sepfix_20261022_171041_876248/metrics/version_0/metrics.csv",
+  "source_sha256": "44fe79a1a3f91707f7ab54f62390eb6f8fc78e3d695fdd4787f409d63568c18e",
+  "kept_logged_steps": [
+    199,
+    399,
+    599,
+    800
+  ],
+  "excluded_logged_steps": {
+    "673": "Epoch-end re-log of value at logged step 599",
+    "999": "Epoch-end re-log of value at logged step 800"
+  },
+  "selected_checkpoint_optimizer_step": 400,
+  "selected_validation_logged_step": 399,
+  "reason": "on_train_epoch_end logs existing valid_nlls without a new validation pass.",
+  "axis_policy": "Use raw CSV step; do not assume every validation log is optimizer step minus one.",
+  "original_logs_and_figures_preserved": true,
+  "output_dir": "/home/chen/projects/s-flm/analysis/experiment_evidence_20261023_111852_802371/sft_curve_correction_20261023_120127_209968"
+}

@@ -1,0 +1,15 @@
+{
+  "seed": 42,
+  "group_size": 8,
+  "sampling_steps": 32,
+  "inner_updates": 2,
+  "max_questions": 64,
+  "validation_seed": 123,
+  "validate_every_groups": 16,
+  "learning_rate": 1e-06,
+  "clip_epsilon": 0.2,
+  "kl_beta": 0.01,
+  "prompt_mask_probability": 0.15,
+  "gradient_clip_norm": 1.0,
+  "sequence_length": 512
+}

@@ -1,0 +1,33 @@
+{
+  "purpose": "Fixed-budget MDLM diffu-GRPO adaptation pilot; validation only",
+  "status": "completed",
+  "initial_checkpoint": "/home/chen/projects/s-flm/outputs/sft_sepfix_20261022_171041_876248/checkpoints/best-step000400.ckpt",
+  "initial_weights": "SFT EMA",
+  "training_questions": 64,
+  "training_samples": 512,
+  "mixed_groups": 24,
+  "all_wrong_groups": 40,
+  "all_correct_groups": 0,
+  "optimizer_steps": 48,
+  "validation_questions": 128,
+  "baseline_validation_correct": 11,
+  "best_rl_validation_correct": 10,
+  "best_rl_validation_accuracy": 0.078125,
+  "validation_gained": 0,
+  "validation_lost": 1,
+  "best_rl_checkpoint": "/home/chen/projects/s-flm/outputs/rl_pilot64_20261022_174012_898690/group016.ckpt",
+  "final_checkpoint": "/home/chen/projects/s-flm/outputs/rl_pilot64_20261022_174012_898690/group064.ckpt",
+  "selection_rule": "Maximum validation correct count among groups 16/32/48/64; earliest wins ties.",
+  "improved_over_sft": false,
+  "checkpoint_reload_exact": true,
+  "max_parameter_change": 4.217028617858887e-05,
+  "total_seconds": 338.67682286700074,
+  "peak_allocated_GiB": 3.964414596557617,
+  "output_dir": "/home/chen/projects/s-flm/outputs/rl_pilot64_20261022_174012_898690",
+  "limitations": [
+    "Single validation seed; small validation set; selection introduces optimism.",
+    "All-equal reward groups skipped, including their KL-only updates.",
+    "One-step surrogate probabilities, not exact trajectory likelihood.",
+    "Pilot uses 64 of 512 training questions; not a full-scale RL run."
+  ]
+}

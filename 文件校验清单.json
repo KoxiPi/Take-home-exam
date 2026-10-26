@@ -1,0 +1,1227 @@
+[
+  {
+    "path": "00_请先阅读.md",
+    "bytes": 3821,
+    "sha256": "9d88beebae425bf382628185ddafd5892775be12953ea5995d6ce7212660d003"
+  },
+  {
+    "path": "01_实验报告.pdf",
+    "bytes": 769235,
+    "sha256": "d0e66db2b2856ffb1d807df46cd6e0ae8de506546bc483a169d7962536edd112"
+  },
+  {
+    "path": "报告与证据/实验报告修订版.md",
+    "bytes": 30203,
+    "sha256": "f102999a04297aa1834342f3a557e9e6f7acff2b0f07ed8fa2601b56512c10e1"
+  },
+  {
+    "path": "报告与证据/运行说明.md",
+    "bytes": 10782,
+    "sha256": "fa1bc524f3a9478bbcd0e48abb57ed8e2e22f752b6dd541f34ef88547d03f5d6"
+  },
+  {
+    "path": "报告与证据/evidence/cases.md",
+    "bytes": 15318,
+    "sha256": "978690bd421fc18b69f3455b721b36d4a114ce5aa1fa5b5f5424ecd73c643380"
+  },
+  {
+    "path": "报告与证据/evidence/correction_audit.json",
+    "bytes": 885,
+    "sha256": "a743da69d27c60d3f22e2c4871e0a5f25ee1bc303b9da915d78fae3b8ab54c51"
+  },
+  {
+    "path": "报告与证据/evidence/ema_diagnostic_20261024.md",
+    "bytes": 2371,
+    "sha256": "e20c3591f9426dcfc94450c764138fdcbea912f45014a4e67d7217113cbcde05"
+  },
+  {
+    "path": "报告与证据/evidence/paired_config.yaml",
+    "bytes": 3727,
+    "sha256": "5343c87a13f0cf35ae664619e44cd0a617e28e6c4248d095439cdee811d5d4c9"
+  },
+  {
+    "path": "报告与证据/evidence/paired_protocol.json",
+    "bytes": 987,
+    "sha256": "6afd47b378a76b10436916d06a593806f16cc84b242ed9ff34da5d14cfa15304"
+  },
+  {
+    "path": "报告与证据/evidence/paired_summary.json",
+    "bytes": 1124,
+    "sha256": "e0e134e1d77bb96c491726a211375da5c968afc4dbfe476c6a9923f6f713d808"
+  },
+  {
+    "path": "报告与证据/evidence/paired_test_changes.json",
+    "bytes": 902,
+    "sha256": "1146926de135ab3f25ddade50276c5736bd5be559e413c211bfc6cde46a18f0a"
+  },
+  {
+    "path": "报告与证据/evidence/per_question.csv",
+    "bytes": 342595,
+    "sha256": "fdd86ef30a720d7d59fce9c6f9e34da0b25c730752855e23822c4a2f95037d4b"
+  },
+  {
+    "path": "报告与证据/evidence/rl_code-version.txt",
+    "bytes": 41,
+    "sha256": "375b17de9690faa29e9eca5228be9a59228a57c66c2fe6838cf26df97f23f0e1"
+  },
+  {
+    "path": "报告与证据/evidence/rl_config.yaml",
+    "bytes": 3826,
+    "sha256": "97b170261a91811adb986a54ca71d8c253d340731d4dbd02e9e6f526acf05e16"
+  },
+  {
+    "path": "报告与证据/evidence/rl_data_metadata.json",
+    "bytes": 1104,
+    "sha256": "77da381a72c922613d08e58c8f6b7ee7974aef07633530e903903b68bf2af1ce"
+  },
+  {
+    "path": "报告与证据/evidence/rl_environment-lock.txt",
+    "bytes": 4600,
+    "sha256": "5944150829393272b89c145b06da353bee13297154edb4999c694b9d34267885"
+  },
+  {
+    "path": "报告与证据/evidence/rl_method.json",
+    "bytes": 1124,
+    "sha256": "7b3b8f6a40e4f3a2af539e698bde10abf03746db7905d4d9f01e0b16834e97f3"
+  },
+  {
+    "path": "报告与证据/evidence/rl_settings.json",
+    "bytes": 319,
+    "sha256": "17c79751973c618d799c67334ebb10470fc9f4a7a25d8c48e6a5a15b7c94b16b"
+  },
+  {
+    "path": "报告与证据/evidence/rl_summary.json",
+    "bytes": 1546,
+    "sha256": "7ea1ace96d1178c42d6257b759a87934cc436212374f0f54aade5c075ff5463b"
+  },
+  {
+    "path": "报告与证据/evidence/rl_updates.json",
+    "bytes": 16701,
+    "sha256": "4b8b914cedd05b51bdf3a41bf75c93470dc2498d00a114c67ff2cdd40eeb7027"
+  },
+  {
+    "path": "报告与证据/evidence/rl_validation_history.json",
+    "bytes": 1570,
+    "sha256": "bdac53a36e12a1f9bbf7189666f300ca6a5b0d2768e688f59d682152f0fcbfc2"
+  },
+  {
+    "path": "报告与证据/evidence/sft_code-version.txt",
+    "bytes": 41,
+    "sha256": "375b17de9690faa29e9eca5228be9a59228a57c66c2fe6838cf26df97f23f0e1"
+  },
+  {
+    "path": "报告与证据/evidence/sft_config.yaml",
+    "bytes": 3936,
+    "sha256": "50bbe2a4682b37dd1d08deded01305dadc2f13cd862469bb8db8b90c4303c923"
+  },
+  {
+    "path": "报告与证据/evidence/sft_data_metadata.json",
+    "bytes": 1041,
+    "sha256": "8a64310f4fad8a302ebb06af0698c017303205c0d405fbfb5f9e3cdee00da965"
+  },
+  {
+    "path": "报告与证据/evidence/sft_environment-lock.txt",
+    "bytes": 4600,
+    "sha256": "5944150829393272b89c145b06da353bee13297154edb4999c694b9d34267885"
+  },
+  {
+    "path": "报告与证据/evidence/sft_summary.json",
+    "bytes": 967,
+    "sha256": "2a41967a14ea4af91157ee32e24b253e6440fb933b574b69e5b19593b92bfa2d"
+  },
+  {
+    "path": "报告与证据/evidence/source_manifest.json",
+    "bytes": 1578,
+    "sha256": "14a45ddf3f561c0c9accae71bb07bc761c66400797f6d0b9258b4d5e28798128"
+  },
+  {
+    "path": "报告与证据/evidence/summary.json",
+    "bytes": 2658,
+    "sha256": "c31e88d86f70218226a00dae65ee9f41f6078df4c9a11b50ee0fd6c379874422"
+  },
+  {
+    "path": "报告与证据/evidence/ema_comparison_20261024/check_sft_ema_vs_raw.py",
+    "bytes": 7292,
+    "sha256": "6522f6e27a2f0afbac5af9eb48cca734502e27636c227d001523ac84c707a138"
+  },
+  {
+    "path": "报告与证据/evidence/ema_comparison_20261024/config.yaml",
+    "bytes": 3727,
+    "sha256": "5343c87a13f0cf35ae664619e44cd0a617e28e6c4248d095439cdee811d5d4c9"
+  },
+  {
+    "path": "报告与证据/evidence/ema_comparison_20261024/ema_seed202.json",
+    "bytes": 154055,
+    "sha256": "e43b1e31b26895231b454baaffd3a5dab85ebf1888cb9735f40960d55de0ca19"
+  },
+  {
+    "path": "报告与证据/evidence/ema_comparison_20261024/ema_seed303.json",
+    "bytes": 154267,
+    "sha256": "32317c86050e97b4381ebcb9b95b5d77ae5c7120a6a542e989e29d46d93343a2"
+  },
+  {
+    "path": "报告与证据/evidence/ema_comparison_20261024/ema_seed404.json",
+    "bytes": 152813,
+    "sha256": "9221db26ad740e49b26d8ea1910a0199ff37e2f6775af90b6cf968c693a3ae41"
+  },
+  {
+    "path": "报告与证据/evidence/ema_comparison_20261024/paired_results.json",
+    "bytes": 329,
+    "sha256": "b203e62b0134ab9b760a2c3842c3cb6f56d4bbc042157cbfc811377f3d87d2d9"
+  },
+  {
+    "path": "报告与证据/evidence/ema_comparison_20261024/protocol.json",
+    "bytes": 620,
+    "sha256": "5ad044bd5e964eb6df9587af7538e062e13e4da2c881db58601ceaa1ea5b08b4"
+  },
+  {
+    "path": "报告与证据/evidence/ema_comparison_20261024/raw_seed202.json",
+    "bytes": 160049,
+    "sha256": "94bd0db586b291851fbf8cfddfc85e6838b949f9a605e2fad353a05435ba62aa"
+  },
+  {
+    "path": "报告与证据/evidence/ema_comparison_20261024/raw_seed303.json",
+    "bytes": 160559,
+    "sha256": "8ccf4b02229e0bb01204201b440c3b12be1bc92d89f8071b8fd748cd190c3e67"
+  },
+  {
+    "path": "报告与证据/evidence/ema_comparison_20261024/raw_seed404.json",
+    "bytes": 161691,
+    "sha256": "7e1f78174eb7f391b544701c37cf7d88b3c31470f16e95a268d2b6d3e4d9ac06"
+  },
+  {
+    "path": "报告与证据/evidence/ema_comparison_20261024/summary.json",
+    "bytes": 943,
+    "sha256": "18fa6895eebfead59b1adb869b3f4a42bdee296662ed2bc08dc63d817972bfc8"
+  },
+  {
+    "path": "报告与证据/evidence/ema_comparison_20261024/weight_check.json",
+    "bytes": 47,
+    "sha256": "c88d5fb48824525808704ec83cdf60c186be0e8f4c22ad7ae52b2ba50476efcb"
+  },
+  {
+    "path": "报告与证据/figures/01_test_comparison.pdf",
+    "bytes": 17959,
+    "sha256": "bd89429d7fe8632f854013da4fc71fe3759ec5a431350a9e4d4aba5df60ead74"
+  },
+  {
+    "path": "报告与证据/figures/01_test_comparison.png",
+    "bytes": 55669,
+    "sha256": "49364643adb72d087dd2d8ebaa2eae776ae0e557296a2b1c1ac64709e556b0ed"
+  },
+  {
+    "path": "报告与证据/figures/02_sft_curves_corrected.pdf",
+    "bytes": 38524,
+    "sha256": "7f803db803b1bb8530a8f6344a41f9260d397512afe3dc81d6530738d8046862"
+  },
+  {
+    "path": "报告与证据/figures/02_sft_curves_corrected.png",
+    "bytes": 238042,
+    "sha256": "8b00d7791cc42ab9f4179bb9328c5cd4f6ade4cb9ac3e14470002ce2464ac09e"
+  },
+  {
+    "path": "报告与证据/figures/03_rl_curves.pdf",
+    "bytes": 21027,
+    "sha256": "50003fc074541df3c8e855b7463bff5c992232aa8f21ecebee6cc3e843079c8f"
+  },
+  {
+    "path": "报告与证据/figures/03_rl_curves.png",
+    "bytes": 174287,
+    "sha256": "eff1a6d01bcd9ba826644aac10fd216459287b3db224887ae0ecf8ef4270e1b0"
+  },
+  {
+    "path": "报告与证据/figures/04_multiseed_validation.pdf",
+    "bytes": 13805,
+    "sha256": "7eb98b37c6f87e0a3bc64c1dd4c5e656488a04a724b2b258b5d2f8fb412a5683"
+  },
+  {
+    "path": "报告与证据/figures/04_multiseed_validation.png",
+    "bytes": 38422,
+    "sha256": "cf5365994cdf6ae830c91ef743ec7d91b239c6577be0a73d65a2c234f3a23281"
+  },
+  {
+    "path": "项目源码/.gitignore",
+    "bytes": 3250,
+    "sha256": "d9fe3f5293c8625ee22739ff75b8c5f4b7945f2fde14fe15275e5e1a905cf513"
+  },
+  {
+    "path": "项目源码/algo.py",
+    "bytes": 34586,
+    "sha256": "087628eebe156463606fdebe6682c07c5a967c5cbf81dd18c6c622c7efdc9432"
+  },
+  {
+    "path": "项目源码/candi_utils.py",
+    "bytes": 2484,
+    "sha256": "4d86ab742ae6f81fbfd0904859c872ac3bd61ce58b625005bfac0b335c584825"
+  },
+  {
+    "path": "项目源码/code-version.txt",
+    "bytes": 41,
+    "sha256": "375b17de9690faa29e9eca5228be9a59228a57c66c2fe6838cf26df97f23f0e1"
+  },
+  {
+    "path": "项目源码/constraints-local.txt",
+    "bytes": 64,
+    "sha256": "4d645318194b51ca3ac7ff375e9704906e30a5304ec93255e8211ebb7bb00efa"
+  },
+  {
+    "path": "项目源码/dataclass_patch.py",
+    "bytes": 750,
+    "sha256": "59bbf44c725d19780e48cc92ba8f9b21cdaf349ba8937e45236ea2492fa232cd"
+  },
+  {
+    "path": "项目源码/dataloader.py",
+    "bytes": 37244,
+    "sha256": "7db61d2acb1d7fa08133d7de3046b046c285f1792076ece1eef8e946218ced74"
+  },
+  {
+    "path": "项目源码/environment-lock.txt",
+    "bytes": 4600,
+    "sha256": "5944150829393272b89c145b06da353bee13297154edb4999c694b9d34267885"
+  },
+  {
+    "path": "项目源码/flm_utils.py",
+    "bytes": 2738,
+    "sha256": "25b96ddff3b81bb067dc83fa069a35561b8e29d07d40f1e8a712886ca353532a"
+  },
+  {
+    "path": "项目源码/main.py",
+    "bytes": 21762,
+    "sha256": "51d4a32ad0c2c5c96422f46663bbb109485df5556d8c9a06dbc90157cd7c3c96"
+  },
+  {
+    "path": "项目源码/metrics.py",
+    "bytes": 10330,
+    "sha256": "d4a775972720824a1e2b0bda0ee70a70e18da9695e4b50b504e0b94987d4b424"
+  },
+  {
+    "path": "项目源码/noise_schedules.py",
+    "bytes": 10433,
+    "sha256": "0b0dcb60056918524f2e89159be7e5f81f03ad682678f78a006a3656beb88db2"
+  },
+  {
+    "path": "项目源码/README.md",
+    "bytes": 12137,
+    "sha256": "e196ddfeab3271def51c4141dbb1bc94548e716945a759080406f29ee58ceac4"
+  },
+  {
+    "path": "项目源码/requirements.txt",
+    "bytes": 986,
+    "sha256": "bdf8bcbd9b2d829c6815dbc1fee87a5e625dfcb7efd2ae55cddc13a0b8fcb321"
+  },
+  {
+    "path": "项目源码/samplers.py",
+    "bytes": 35850,
+    "sha256": "b2c4d8ef2161578b735f71ca44768097adf78134d130d104c094e86389d6e68b"
+  },
+  {
+    "path": "项目源码/sandbox_gsm8k.py",
+    "bytes": 5965,
+    "sha256": "87efd055a2fd4d25077923296eef3ffc8f2e0b983a98dd69c2ad89d5055ce640"
+  },
+  {
+    "path": "项目源码/sudoku_generator.py",
+    "bytes": 6525,
+    "sha256": "c6a842526132ec96bf3098bec66d6e54780dad16cb7fb73481a81b88e97e6779"
+  },
+  {
+    "path": "项目源码/trainer_base.py",
+    "bytes": 23457,
+    "sha256": "d2c41e92bca8b78790f44e275a262e3cb4a33bb0ce0f2353755a9d1a6a2c03b0"
+  },
+  {
+    "path": "项目源码/utils.py",
+    "bytes": 9064,
+    "sha256": "88af895189b9ae818cc14a31f2753af74fe3d882f9816f3e7a3b321057f3b570"
+  },
+  {
+    "path": "项目源码/callbacks/throughput.py",
+    "bytes": 3418,
+    "sha256": "7391c3a1644ed592ec7c267cf2da01b4d6e82e7fd6011a0a12f29b2d7ef3f92a"
+  },
+  {
+    "path": "项目源码/configs/__init__.py",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "项目源码/configs/config.yaml",
+    "bytes": 3344,
+    "sha256": "d420af1b59ffddf37297bc27dcd24ea3a493a84112ed9f1c2227936ea6056f6a"
+  },
+  {
+    "path": "项目源码/configs/algo/ar.yaml",
+    "bytes": 170,
+    "sha256": "7e3ebcb258de479fee3c38574fc6484243573376029aab28b41df3e7307cf19d"
+  },
+  {
+    "path": "项目源码/configs/algo/candi.yaml",
+    "bytes": 387,
+    "sha256": "356a92d79e8198d5131f9def7f7b1f37e855818d89ed7b123281661f984cfeb0"
+  },
+  {
+    "path": "项目源码/configs/algo/duo-base.yaml",
+    "bytes": 251,
+    "sha256": "6d100cdf8f583e0880150d1f2bc71fd4428e29dc04ebf86e86823bc0a3fb545c"
+  },
+  {
+    "path": "项目源码/configs/algo/flm.yaml",
+    "bytes": 533,
+    "sha256": "b77f412c96c2d30e6d99b7d6b27ebcdb883a042cd6b674b471efe50829d4fa1e"
+  },
+  {
+    "path": "项目源码/configs/algo/mdlm.yaml",
+    "bytes": 283,
+    "sha256": "439b937cfacf1a085aa6582de39ecf13f58bf391661dba92501b4a5d3a5236bf"
+  },
+  {
+    "path": "项目源码/configs/algo/sfm.yaml",
+    "bytes": 369,
+    "sha256": "3a87ce573c271de5ef834dcecffa908a328717761581151a6f07eb0b463108e2"
+  },
+  {
+    "path": "项目源码/configs/callbacks/checkpoint_every_n_steps.yaml",
+    "bytes": 381,
+    "sha256": "5be220e8d655d135cfd519d717d4452a1d42fd8ce347e2c12408702970438d19"
+  },
+  {
+    "path": "项目源码/configs/callbacks/checkpoint_monitor.yaml",
+    "bytes": 456,
+    "sha256": "ec0f4755b3a3716a23f6c57011979d159b8146cd2911e0f69466d3e968bb8004"
+  },
+  {
+    "path": "项目源码/configs/callbacks/learning_rate_monitor.yaml",
+    "bytes": 108,
+    "sha256": "fd2606a3aaf6960a1b57d7ddf62e3c2d294f91a3789d1db4a3b4151b06209cc1"
+  },
+  {
+    "path": "项目源码/configs/data/ag_news.yaml",
+    "bytes": 185,
+    "sha256": "02a84f3cad2ff1e05f9811e74a5df12be3a7389d5a010e0d26ddddc25833e4c7"
+  },
+  {
+    "path": "项目源码/configs/data/fineweb-edu.yaml",
+    "bytes": 226,
+    "sha256": "586ee52000a7b36f636e354a13a3e32761b9f92911ffc565006cc3f73863c8f7"
+  },
+  {
+    "path": "项目源码/configs/data/gsm8k-test.yaml",
+    "bytes": 314,
+    "sha256": "e0a64ec4ffafbaffe747f0faeb3facc5d023a21900bb92348aa33e69483099b9"
+  },
+  {
+    "path": "项目源码/configs/data/lambada.yaml",
+    "bytes": 185,
+    "sha256": "54cb056472fb4c81b7354c35bf412b49a42578701e5b5150b9afa1384b45eedd"
+  },
+  {
+    "path": "项目源码/configs/data/lm1b-gpt2.yaml",
+    "bytes": 179,
+    "sha256": "5bec43cdbfdacd7151a9e701b7c2f39995b9756446da7a928a213ca722c3e863"
+  },
+  {
+    "path": "项目源码/configs/data/lm1b-streaming.yaml",
+    "bytes": 192,
+    "sha256": "72297c9ef6aa618929ced140087cf41f222442fdb88c8ba3b0bcc2e44f0a960c"
+  },
+  {
+    "path": "项目源码/configs/data/lm1b-wrap.yaml",
+    "bytes": 192,
+    "sha256": "1965a8d614f51303322dfc12e3ca515dc8a1109c02d72a952a9d18b012124fea"
+  },
+  {
+    "path": "项目源码/configs/data/lm1b.yaml",
+    "bytes": 193,
+    "sha256": "a3cc95146cd93fc10848eeb8a90e8d4ccd51eb758f07417ba692f74721c7af38"
+  },
+  {
+    "path": "项目源码/configs/data/openwebtext-split.yaml",
+    "bytes": 205,
+    "sha256": "ed14395315d870b66aa6c7d3258ff01c9092f50ebca2eb1a4e875dff1e156d7e"
+  },
+  {
+    "path": "项目源码/configs/data/openwebtext-streaming.yaml",
+    "bytes": 160,
+    "sha256": "0a7c79faa3d91e50db0b1c186e5215b4bd682ccd31e8ef48f3606bbb8e153520"
+  },
+  {
+    "path": "项目源码/configs/data/openwebtext.yaml",
+    "bytes": 193,
+    "sha256": "8dec6b02259b766b4efed24a78dd0e92c000b0d892f5cba291f32f2dcd07a05c"
+  },
+  {
+    "path": "项目源码/configs/data/ptb.yaml",
+    "bytes": 177,
+    "sha256": "c0e600fc0c82b5ef0c014e674be56741635ef23f160abfe6552d5c6d3acd2055"
+  },
+  {
+    "path": "项目源码/configs/data/scientific_papers_arxiv.yaml",
+    "bytes": 217,
+    "sha256": "56efb9af77918c5072c6eb2224fa3759782c35d866c8f9640628559f30ef83ed"
+  },
+  {
+    "path": "项目源码/configs/data/scientific_papers_pubmed.yaml",
+    "bytes": 219,
+    "sha256": "d19b83c76a2b40e9664ca36148f75c055840618adc6053bbc13f80d07d322f84"
+  },
+  {
+    "path": "项目源码/configs/data/sudoku.yaml",
+    "bytes": 295,
+    "sha256": "d456b0a9077f235fc575fc929c35016fb9405c7e5b1560ee3fe741f1514c2af7"
+  },
+  {
+    "path": "项目源码/configs/data/synthetic.yaml",
+    "bytes": 193,
+    "sha256": "b44dd043db3c2f4cb465f899c18d975accb7403a10ffe9361ad550d98609267e"
+  },
+  {
+    "path": "项目源码/configs/data/text8-crop.yaml",
+    "bytes": 263,
+    "sha256": "df5605f31ef4e574c87d926837e225c5f993b7f9fbbffe093cd7f3036fc3c8a6"
+  },
+  {
+    "path": "项目源码/configs/data/text8.yaml",
+    "bytes": 258,
+    "sha256": "cf69ae7b71cf40d34738f39b845543dfbef1cfe477fefdf0f574914faf666edc"
+  },
+  {
+    "path": "项目源码/configs/data/tiny-gsm.yaml",
+    "bytes": 420,
+    "sha256": "0d23769d38debf1cf68423b19e83f9ae3d1feadbbe77e76c2887f8307823dd1a"
+  },
+  {
+    "path": "项目源码/configs/data/wikitext103.yaml",
+    "bytes": 193,
+    "sha256": "beb5eb0688cc52e30c3c8c886eb78a1e841adb2a6136cae946f06696d4090b91"
+  },
+  {
+    "path": "项目源码/configs/data/wikitext2.yaml",
+    "bytes": 189,
+    "sha256": "77f8e97bc4bfb5af82758c7d2e8edb3257e99fbf96da05eb4e94d16e55d9ad1c"
+  },
+  {
+    "path": "项目源码/configs/lr_scheduler/constant_warmup.yaml",
+    "bytes": 79,
+    "sha256": "f9828ad807d5d32def6e8cc6706553fb55585becc17bcc0ccf5191a710f234f8"
+  },
+  {
+    "path": "项目源码/configs/lr_scheduler/cosine_decay_warmup.yaml",
+    "bytes": 213,
+    "sha256": "90bf1b21df14c7b0387d336c04b406260241c4f6012266756175cfdedd1c4bc5"
+  },
+  {
+    "path": "项目源码/configs/lr_scheduler/step_scheduler.yaml",
+    "bytes": 133,
+    "sha256": "1e7fa377f5d8cfb0181376386e9ee138f6c9377d204234949f3b030ffc99ae0d"
+  },
+  {
+    "path": "项目源码/configs/model/small-candi.yaml",
+    "bytes": 153,
+    "sha256": "28fcc638450e60623ebf408db28239f09167f8ca90fee63f9ee1ca32156d21b7"
+  },
+  {
+    "path": "项目源码/configs/model/small-flm.yaml",
+    "bytes": 125,
+    "sha256": "7f6c63983861bb4cefaffb6e65edce93de2aff8f63084864ac6b0abd8b9502bb"
+  },
+  {
+    "path": "项目源码/configs/model/small-sphere-arch.yaml",
+    "bytes": 1314,
+    "sha256": "348d639aeeadfe967aab2a6d0c71fdecc0258257f01463d19abd0c0f68405cf6"
+  },
+  {
+    "path": "项目源码/configs/model/small-sphere-dit.yaml",
+    "bytes": 827,
+    "sha256": "b9e2482f0f2f322cb8f30ff1484e6c58faba236f3501860d18be58f88867739a"
+  },
+  {
+    "path": "项目源码/configs/model/small.yaml",
+    "bytes": 103,
+    "sha256": "63daa76548d1b3d6a6d641fe259c06e8dcfe13e355c1513fb60963af2ac9afef"
+  },
+  {
+    "path": "项目源码/configs/model/tiny-candi.yaml",
+    "bytes": 149,
+    "sha256": "4a6d17686c19e337be3f15e36b9018e3067156325c70ffc1f41d4a4cb0dc2845"
+  },
+  {
+    "path": "项目源码/configs/model/tiny-flm.yaml",
+    "bytes": 121,
+    "sha256": "d5b494f2e8c57daf049242cf4f57f2b0afa92a09efa95f35ba58ee1e9fc9d7cc"
+  },
+  {
+    "path": "项目源码/configs/model/tiny-sphere-arch.yaml",
+    "bytes": 243,
+    "sha256": "5bf7733af5cfb276e01f5b6a95e6043aa1a58067d0fcdc57b5c1862b57cf74a8"
+  },
+  {
+    "path": "项目源码/configs/model/tiny-sphere-dit.yaml",
+    "bytes": 188,
+    "sha256": "ee0ea42a6733a713678a0ae63ee80f899d1c420d6c1bc85b0856bab4cd028573"
+  },
+  {
+    "path": "项目源码/configs/model/tiny.yaml",
+    "bytes": 100,
+    "sha256": "ec5cddd8b8483de257a053da0385a11200189c2990e67d2489a952dfc204c79d"
+  },
+  {
+    "path": "项目源码/configs/noise/cosine-squared.yaml",
+    "bytes": 79,
+    "sha256": "0bea215c9fade4ccd13fd6245f47124672ad90d5fd7e181754d3f4314bbf6bed"
+  },
+  {
+    "path": "项目源码/configs/noise/log-linear-adaptive.yaml",
+    "bytes": 434,
+    "sha256": "64cdedd15a3f599bc61b04d11829c24c69199f81b281e319a82a4cf252ae817d"
+  },
+  {
+    "path": "项目源码/configs/noise/log-linear.yaml",
+    "bytes": 74,
+    "sha256": "51f8df19ca9693f27143d843dc499bebb9b4caf319ffadb202d84e3ed69a1cf9"
+  },
+  {
+    "path": "项目源码/configs/prior/none.yaml",
+    "bytes": 43,
+    "sha256": "4f5604b90755684917d9029b700658a8bfec411c6724c0bd7fcee603d4cca0e2"
+  },
+  {
+    "path": "项目源码/configs/sampler/ancestral.yaml",
+    "bytes": 321,
+    "sha256": "161827fc8d2d14db5676867f43201190a1c6cdd0529bcc7ca0ee595c47ca063e"
+  },
+  {
+    "path": "项目源码/configs/sampler/ar.yaml",
+    "bytes": 212,
+    "sha256": "b75ec4d9827fd6e9d45b3230f152ceb87fa1c6946e09ee69d6c506dc6312d548"
+  },
+  {
+    "path": "项目源码/configs/sampler/candi.yaml",
+    "bytes": 259,
+    "sha256": "ef3f072bd9ea53e0e12d901d25ab0d756b87e5c611397e8a2f9309748086f6bd"
+  },
+  {
+    "path": "项目源码/configs/sampler/flm_euler.yaml",
+    "bytes": 142,
+    "sha256": "659fb6dbd426521a91766af67bc430b2437134d1ac8498f714c116c2a7943812"
+  },
+  {
+    "path": "项目源码/configs/sampler/sfm.yaml",
+    "bytes": 322,
+    "sha256": "a8a17d844f8033ae63d3fd22be505799ce4c4a579cdcf844412559685ab4e317"
+  },
+  {
+    "path": "项目源码/configs/strategy/ddp.yaml",
+    "bytes": 81,
+    "sha256": "a77c8a7fe5d230a2814b81cabfb72d20918b50edac2e0a95d5c4182c8f691b34"
+  },
+  {
+    "path": "项目源码/configs/strategy/fsdp.yaml",
+    "bytes": 142,
+    "sha256": "b23a1902f0a517e01e81c6503d4074987cd918bf579b7498f5fd0399b4c21296"
+  },
+  {
+    "path": "项目源码/configs/strategy/single-device.yaml",
+    "bytes": 75,
+    "sha256": "44152dde9ecb8e250b0b0083c5d469653976be72bc54c95fcf983077469435fb"
+  },
+  {
+    "path": "项目源码/data/gsm8k_test.json",
+    "bytes": 785867,
+    "sha256": "c93390d9990e8232ef01ec74153f8164f8a277ceffec30523b08a843861b001c"
+  },
+  {
+    "path": "项目源码/data/local/gsm8k_rl_pilot/metadata.json",
+    "bytes": 1104,
+    "sha256": "77da381a72c922613d08e58c8f6b7ee7974aef07633530e903903b68bf2af1ce"
+  },
+  {
+    "path": "项目源码/data/local/gsm8k_rl_pilot/probe128.json",
+    "bytes": 69138,
+    "sha256": "22de0b86b5683c755361de9cfd047a4070597fcd4502445c2e95a7daa6eb645a"
+  },
+  {
+    "path": "项目源码/data/local/gsm8k_rl_pilot/reserve.json",
+    "bytes": 4356204,
+    "sha256": "59685646ed0a729e9b8335d6203dbfb12e677c3259a2d24d432ba92fb9c3c388"
+  },
+  {
+    "path": "项目源码/data/local/gsm8k_rl_pilot/train.json",
+    "bytes": 324709,
+    "sha256": "ea2c4b82a1d9b6a738ca8832c690b26ef26c2bcb207e9a2eee7efd7d3b2224e4"
+  },
+  {
+    "path": "项目源码/data/local/gsm8k_rl_pilot/valid.json",
+    "bytes": 80058,
+    "sha256": "a0a1d990abf0bfebe311e78cc43037198887f9fc19f78f127aa696d7b82d6a6b"
+  },
+  {
+    "path": "项目源码/data/local/tinygsm_sft_pilot/download_metadata.json",
+    "bytes": 276,
+    "sha256": "34e14cf246a903533e0f994eaec425e334c2526198e642bc6576bd448477d81b"
+  },
+  {
+    "path": "项目源码/data/local/tinygsm_sft_pilot/prepare_metadata.json",
+    "bytes": 871,
+    "sha256": "445f89a380542b5894a927268924c04326c7b85d9c26583ec3ff859bfa32e4cc"
+  },
+  {
+    "path": "项目源码/data/local/tinygsm_sft_pilot/raw.json",
+    "bytes": 8354089,
+    "sha256": "bd958154067e3be0fea39955b08b1f1d622083e9fc3184ec18ceb4c8593e0e2a"
+  },
+  {
+    "path": "项目源码/data/local/tinygsm_sft_pilot/train.json",
+    "bytes": 7475523,
+    "sha256": "99828a290538616da709559c8d569557b3af4ad0b157643cafd0e932cc54a73b"
+  },
+  {
+    "path": "项目源码/data/local/tinygsm_sft_pilot/valid.json",
+    "bytes": 815733,
+    "sha256": "dbfbdde3eba9a0a88cdcba08b534b96eebec3c3259daf660fcce9144d15b9c4e"
+  },
+  {
+    "path": "项目源码/data/local/tinygsm_sft_sepfix/prepare_metadata.json",
+    "bytes": 1041,
+    "sha256": "8a64310f4fad8a302ebb06af0698c017303205c0d405fbfb5f9e3cdee00da965"
+  },
+  {
+    "path": "项目源码/data/local/tinygsm_sft_sepfix/train.json",
+    "bytes": 7475523,
+    "sha256": "99828a290538616da709559c8d569557b3af4ad0b157643cafd0e932cc54a73b"
+  },
+  {
+    "path": "项目源码/data/local/tinygsm_sft_sepfix/valid.json",
+    "bytes": 815733,
+    "sha256": "dbfbdde3eba9a0a88cdcba08b534b96eebec3c3259daf660fcce9144d15b9c4e"
+  },
+  {
+    "path": "项目源码/eval_runs/mdlm_baseline32/results.json",
+    "bytes": 1568278,
+    "sha256": "c3565745bea9dcabbbf674aa51246aa10df23237fab074dd577cf166739d4bf0"
+  },
+  {
+    "path": "项目源码/eval_runs/mdlm_rl_pilot64_best32_20261022_185235/results.json",
+    "bytes": 1570140,
+    "sha256": "d0fbf1150c1bb8aad7d5c1593d98c669e53c7633f20e07f63f89c8a2ad8ab83b"
+  },
+  {
+    "path": "项目源码/eval_runs/mdlm_sft_sepfix_best32_20261022_171749/results.json",
+    "bytes": 1571049,
+    "sha256": "da4674bfc9aad3cda4f17ca3be75b57a5bd3b0df0fcc95be5bc83c737c5a626e"
+  },
+  {
+    "path": "项目源码/models/__init__.py",
+    "bytes": 87,
+    "sha256": "ba0e6acf8b1834e3cd22ce9dbe16f34ed762bdd588e4423cdb325eb8950ea371"
+  },
+  {
+    "path": "项目源码/models/candi_dit.py",
+    "bytes": 7165,
+    "sha256": "c8ac44468ef70aa9e040695663f2b7fc3d293231b495ee215eea8ee0d486ced2"
+  },
+  {
+    "path": "项目源码/models/dit.py",
+    "bytes": 19006,
+    "sha256": "7b13ae13ac2c8f3c776238c231b803f5dc6399d97c501b428e512d885a69bc81"
+  },
+  {
+    "path": "项目源码/models/ema.py",
+    "bytes": 3320,
+    "sha256": "f1417e66a46b2c2144e3fd47bb5c91c819f8c55f6bd18c75b72a75dc36bafb60"
+  },
+  {
+    "path": "项目源码/models/flm_dit.py",
+    "bytes": 5563,
+    "sha256": "8caa0731ea4033cd23a6570ca7ce9ef7ea353fc20aa28b5275aa10b4ee4f21bf"
+  },
+  {
+    "path": "项目源码/models/sphere_arch.py",
+    "bytes": 13800,
+    "sha256": "31207e80b07a3650670bf158d2071bcc86e4672d2ed5fe198ab1c75573498541"
+  },
+  {
+    "path": "项目源码/models/sphere_dit.py",
+    "bytes": 7467,
+    "sha256": "50bc867f154e06d83c1fdecef0034c196adcb3d848630854d86c53df99467d85"
+  },
+  {
+    "path": "项目源码/outputs/rl_pilot64_20261022_174012_898690/code-version.txt",
+    "bytes": 41,
+    "sha256": "375b17de9690faa29e9eca5228be9a59228a57c66c2fe6838cf26df97f23f0e1"
+  },
+  {
+    "path": "项目源码/outputs/rl_pilot64_20261022_174012_898690/config.yaml",
+    "bytes": 3826,
+    "sha256": "97b170261a91811adb986a54ca71d8c253d340731d4dbd02e9e6f526acf05e16"
+  },
+  {
+    "path": "项目源码/outputs/rl_pilot64_20261022_174012_898690/data_metadata.json",
+    "bytes": 1104,
+    "sha256": "77da381a72c922613d08e58c8f6b7ee7974aef07633530e903903b68bf2af1ce"
+  },
+  {
+    "path": "项目源码/outputs/rl_pilot64_20261022_174012_898690/environment-lock.txt",
+    "bytes": 4600,
+    "sha256": "5944150829393272b89c145b06da353bee13297154edb4999c694b9d34267885"
+  },
+  {
+    "path": "项目源码/outputs/rl_pilot64_20261022_174012_898690/method.json",
+    "bytes": 1124,
+    "sha256": "7b3b8f6a40e4f3a2af539e698bde10abf03746db7905d4d9f01e0b16834e97f3"
+  },
+  {
+    "path": "项目源码/outputs/rl_pilot64_20261022_174012_898690/progress.json",
+    "bytes": 235,
+    "sha256": "0a63332ea8e5ac6ec42683938a1ae295b86272a19370e42f87c037c06de17df9"
+  },
+  {
+    "path": "项目源码/outputs/rl_pilot64_20261022_174012_898690/records.json",
+    "bytes": 352582,
+    "sha256": "f68d90af1f818a42631403da375e50fb57d8285fbcb66d00aceb3bc8d82d98d2"
+  },
+  {
+    "path": "项目源码/outputs/rl_pilot64_20261022_174012_898690/settings.json",
+    "bytes": 319,
+    "sha256": "17c79751973c618d799c67334ebb10470fc9f4a7a25d8c48e6a5a15b7c94b16b"
+  },
+  {
+    "path": "项目源码/outputs/rl_pilot64_20261022_174012_898690/split_manifest.json",
+    "bytes": 2156,
+    "sha256": "818b8ac7b690c41e2fe40f79d08042eb44f5477e16ba135fc6ec6af581542fef"
+  },
+  {
+    "path": "项目源码/outputs/rl_pilot64_20261022_174012_898690/summary.json",
+    "bytes": 1546,
+    "sha256": "7ea1ace96d1178c42d6257b759a87934cc436212374f0f54aade5c075ff5463b"
+  },
+  {
+    "path": "项目源码/outputs/rl_pilot64_20261022_174012_898690/train_rl_pilot.py",
+    "bytes": 19616,
+    "sha256": "23cf89119d00e3d4973a0444475656d53b1cc8f8ce7d8586e48f077e5346c35b"
+  },
+  {
+    "path": "项目源码/outputs/rl_pilot64_20261022_174012_898690/updates.json",
+    "bytes": 16701,
+    "sha256": "4b8b914cedd05b51bdf3a41bf75c93470dc2498d00a114c67ff2cdd40eeb7027"
+  },
+  {
+    "path": "项目源码/outputs/rl_pilot64_20261022_174012_898690/validation_before_rl.json",
+    "bytes": 153112,
+    "sha256": "30e65990fbe6bb018190d91caaaaa9bc0697e2bdac4434a4f7bf3bdcb0e37b7b"
+  },
+  {
+    "path": "项目源码/outputs/rl_pilot64_20261022_174012_898690/validation_group016.json",
+    "bytes": 153051,
+    "sha256": "e93d669eb6fc565a648666919a1bf6f84d64fb575d39eb9843edca7e53a816aa"
+  },
+  {
+    "path": "项目源码/outputs/rl_pilot64_20261022_174012_898690/validation_group032.json",
+    "bytes": 153335,
+    "sha256": "48ed9445438959aa722cb3568943f26265d2c608bbe192c2fc3a2368267b16ec"
+  },
+  {
+    "path": "项目源码/outputs/rl_pilot64_20261022_174012_898690/validation_group048.json",
+    "bytes": 153118,
+    "sha256": "96c4a2836c7ed5142ff2bfbc659fa9b0036d38c1c06388a05370c7a847adf7d8"
+  },
+  {
+    "path": "项目源码/outputs/rl_pilot64_20261022_174012_898690/validation_group064.json",
+    "bytes": 153328,
+    "sha256": "479974e8d89acb775c0b6d6da4b27250285a52bfff7c5468bd0bf84d35c13fd1"
+  },
+  {
+    "path": "项目源码/outputs/rl_pilot64_20261022_174012_898690/validation_history.json",
+    "bytes": 1570,
+    "sha256": "bdac53a36e12a1f9bbf7189666f300ca6a5b0d2768e688f59d682152f0fcbfc2"
+  },
+  {
+    "path": "项目源码/outputs/sft_sepfix_20261022_171041_876248/code-version.txt",
+    "bytes": 41,
+    "sha256": "375b17de9690faa29e9eca5228be9a59228a57c66c2fe6838cf26df97f23f0e1"
+  },
+  {
+    "path": "项目源码/outputs/sft_sepfix_20261022_171041_876248/config.yaml",
+    "bytes": 3936,
+    "sha256": "50bbe2a4682b37dd1d08deded01305dadc2f13cd862469bb8db8b90c4303c923"
+  },
+  {
+    "path": "项目源码/outputs/sft_sepfix_20261022_171041_876248/data_metadata.json",
+    "bytes": 1041,
+    "sha256": "8a64310f4fad8a302ebb06af0698c017303205c0d405fbfb5f9e3cdee00da965"
+  },
+  {
+    "path": "项目源码/outputs/sft_sepfix_20261022_171041_876248/environment-lock.txt",
+    "bytes": 4600,
+    "sha256": "5944150829393272b89c145b06da353bee13297154edb4999c694b9d34267885"
+  },
+  {
+    "path": "项目源码/outputs/sft_sepfix_20261022_171041_876248/summary.json",
+    "bytes": 967,
+    "sha256": "2a41967a14ea4af91157ee32e24b253e6440fb933b574b69e5b19593b92bfa2d"
+  },
+  {
+    "path": "项目源码/outputs/sft_sepfix_20261022_171041_876248/train_sft.py",
+    "bytes": 8727,
+    "sha256": "373bb47b44bf5b3298f72d8aac761bcf696e52a4e99cabf8d3d812b4034a6d4f"
+  },
+  {
+    "path": "项目源码/outputs/sft_sepfix_20261022_171041_876248/metrics/version_0/metrics.csv",
+    "bytes": 96353,
+    "sha256": "44fe79a1a3f91707f7ab54f62390eb6f8fc78e3d695fdd4787f409d63568c18e"
+  },
+  {
+    "path": "项目源码/outputs/sft_sepfix_20261022_171041_876248/tokenizer/merges.txt",
+    "bytes": 466391,
+    "sha256": "0b54e8aa4e53d5383e2e4bc635a56b43f9647f7b13832d5d9ecd8f82dac4f510"
+  },
+  {
+    "path": "项目源码/outputs/sft_sepfix_20261022_171041_876248/tokenizer/special_tokens_map.json",
+    "bytes": 831,
+    "sha256": "e786b595b9a23148bf1630df78d9037a048ea671e48bfd3549a1e3c233742bb3"
+  },
+  {
+    "path": "项目源码/outputs/sft_sepfix_20261022_171041_876248/tokenizer/tokenizer_config.json",
+    "bytes": 3685,
+    "sha256": "238ad6b60d48e471624ea70bc79e92f2611844d5016471fee8c167854bcb98e8"
+  },
+  {
+    "path": "项目源码/outputs/sft_sepfix_20261022_171041_876248/tokenizer/tokenizer.json",
+    "bytes": 3522656,
+    "sha256": "7d27c493c729a66ecefc837280b05d948b1ed50d130eebdbf911b1b36cf38ed7"
+  },
+  {
+    "path": "项目源码/outputs/sft_sepfix_20261022_171041_876248/tokenizer/vocab.json",
+    "bytes": 800662,
+    "sha256": "82b84012e3add4d01d12ba14442026e49b8cbbaead1f79ecf3d919784f82dc79"
+  },
+  {
+    "path": "项目源码/scripts/local/build_experiment_evidence.py",
+    "bytes": 9913,
+    "sha256": "0fe1975d001f6ddbb017daa71d9122e77bdbcf45f48331d2419be58149fcf01d"
+  },
+  {
+    "path": "项目源码/scripts/local/check_rl_rewards_sepfix.py",
+    "bytes": 6176,
+    "sha256": "201c6f2c3839d0ee360341d4ced777a87391c990885fc8436bd0daa3014ab50d"
+  },
+  {
+    "path": "项目源码/scripts/local/check_rl_rewards_sft_sepfix.py",
+    "bytes": 6183,
+    "sha256": "0ee658c9258f4d0c3e8dc700d92c717efae075a3aaa92a344d57887445c35318"
+  },
+  {
+    "path": "项目源码/scripts/local/check_rl_rewards.py",
+    "bytes": 6039,
+    "sha256": "d4d63c79c01daaa0bf37fd076372d1198982baf51d2de69e4fec61872f356d6a"
+  },
+  {
+    "path": "项目源码/scripts/local/check_sft_ema_vs_raw.py",
+    "bytes": 7292,
+    "sha256": "6522f6e27a2f0afbac5af9eb48cca734502e27636c227d001523ac84c707a138"
+  },
+  {
+    "path": "项目源码/scripts/local/download_sft_raw.py",
+    "bytes": 1189,
+    "sha256": "a2e0d60a91ab120cbca74e8043631c66b6d85a7b26800f98dc240a6880dfed0d"
+  },
+  {
+    "path": "项目源码/scripts/local/eval_mdlm_baseline.sh",
+    "bytes": 1138,
+    "sha256": "f00fab23a2fff3e634a807e61e172647dfcbba8206f1e6ccf8722be39808b3a8"
+  },
+  {
+    "path": "项目源码/scripts/local/fix_sft_evidence_curve.py",
+    "bytes": 3393,
+    "sha256": "a7777ff75cc0f2c555d9e85907a76731011af32797c4511dff46434cacd3b48f"
+  },
+  {
+    "path": "项目源码/scripts/local/prepare_rl_data.py",
+    "bytes": 3579,
+    "sha256": "93a16dc408dee77e9252be880ec8c54b3ad1956f066c046a6d90c50e7eda07bb"
+  },
+  {
+    "path": "项目源码/scripts/local/prepare_sft_data_sepfix.py",
+    "bytes": 4424,
+    "sha256": "8fc7e7c250dbd68ce940f1fc03ac01e45ca1e5dae2ea210df7a21838098ed36b"
+  },
+  {
+    "path": "项目源码/scripts/local/prepare_sft_data.py",
+    "bytes": 3695,
+    "sha256": "63c4ea4cbd8ea472cded461fbe937b190fa25aed8000a79563dc2c7518d5501d"
+  },
+  {
+    "path": "项目源码/scripts/local/train_rl_pilot.py",
+    "bytes": 19616,
+    "sha256": "23cf89119d00e3d4973a0444475656d53b1cc8f8ce7d8586e48f077e5346c35b"
+  },
+  {
+    "path": "项目源码/scripts/local/train_rl_smoke.py",
+    "bytes": 13379,
+    "sha256": "f7407f23d378706a426b9aba091011a0a3b493f577ef4b9c4c6a55a4c4a572f8"
+  },
+  {
+    "path": "项目源码/scripts/local/train_sft_sepfix.py",
+    "bytes": 8727,
+    "sha256": "373bb47b44bf5b3298f72d8aac761bcf696e52a4e99cabf8d3d812b4034a6d4f"
+  },
+  {
+    "path": "项目源码/scripts/local/train_sft_smoke.py",
+    "bytes": 7690,
+    "sha256": "bf2a189915b24706bc1c8b4d32fd0d79cce4ebc4ab0d31d3762e025ca4935ca0"
+  },
+  {
+    "path": "项目源码/scripts/local/train_sft.py",
+    "bytes": 8464,
+    "sha256": "ad1b15b4582748366292fe0b9b6bc3751dc1dc047544b517157faa8477f7c1e3"
+  },
+  {
+    "path": "项目源码/scripts/local/validate_rl_paired.py",
+    "bytes": 7728,
+    "sha256": "a0f27e6c92c43fda60597d3af26384b60ca38a6e531f14d91af017b8283ecbe5"
+  },
+  {
+    "path": "项目源码/scripts/sample/owt/ar.sh",
+    "bytes": 1030,
+    "sha256": "924e24fec321fb6c34bb54b60927636086e3ff9d5c54916ffc7d3e19d9c1b484"
+  },
+  {
+    "path": "项目源码/scripts/sample/owt/duo.sh",
+    "bytes": 1035,
+    "sha256": "3b2cce365b8d916f725d4bab4e486821b9000d7379ad23db89c43c2f7082962e"
+  },
+  {
+    "path": "项目源码/scripts/sample/owt/flm.sh",
+    "bytes": 1089,
+    "sha256": "d829d3e1563f431320fc446090daa44932ea6b38e361406780dca6ae0f88d786"
+  },
+  {
+    "path": "项目源码/scripts/sample/owt/mdlm.sh",
+    "bytes": 1033,
+    "sha256": "f33accdf335a4c39db58dc34547d8912821b427781f32a20a05b92a4aed2aae1"
+  },
+  {
+    "path": "项目源码/scripts/sample/owt/sfm.sh",
+    "bytes": 1671,
+    "sha256": "f42170f5f04dc14aaa293915333853b76c57cdb556211d448294cf3296b8450d"
+  },
+  {
+    "path": "项目源码/scripts/sample/sudoku/ar.sh",
+    "bytes": 1030,
+    "sha256": "116f6153ac7074ea1ec5564882a4abd8967764824256880c751e03579d6b2a9b"
+  },
+  {
+    "path": "项目源码/scripts/sample/sudoku/candi.sh",
+    "bytes": 1048,
+    "sha256": "8a8ff15b18e70c84737101dd84e1ab69c82bf4239c263515d00e9e5f4f84cbf8"
+  },
+  {
+    "path": "项目源码/scripts/sample/sudoku/duo.sh",
+    "bytes": 1045,
+    "sha256": "eeb09ff6163920d7e40ccbf31da68d94e831251e2ec1fe60ea19d7664c21cb40"
+  },
+  {
+    "path": "项目源码/scripts/sample/sudoku/flm.sh",
+    "bytes": 1044,
+    "sha256": "220b4b2a476fb2b5f0f1dd51958ac47415fcc766f3a8c3a8717d3d2bec2f1005"
+  },
+  {
+    "path": "项目源码/scripts/sample/sudoku/mdlm.sh",
+    "bytes": 1043,
+    "sha256": "7e4578523334c7fbd937984285a077e50999f5a99835fb8d3f072d08a1d274ed"
+  },
+  {
+    "path": "项目源码/scripts/sample/sudoku/sfm_truncated_adaptive.sh",
+    "bytes": 1628,
+    "sha256": "8c02f5a04c62e6b33a988709176b2e33637763c4f00ff6770dbd5089ad6e655f"
+  },
+  {
+    "path": "项目源码/scripts/sample/sudoku/sfm_truncated.sh",
+    "bytes": 1409,
+    "sha256": "87fa4e3a4ac00d403c894380c1c4e84f72edf1ba17286732b4b0f7dec94a673c"
+  },
+  {
+    "path": "项目源码/scripts/sample/sudoku/sfm.sh",
+    "bytes": 1361,
+    "sha256": "1733bd0f9d1926f1f0d0ca406b15d924073e1d7f39cb5bf4392469c61cc47436"
+  },
+  {
+    "path": "项目源码/scripts/sample/tinygsm/ar.sh",
+    "bytes": 944,
+    "sha256": "de4226dedc44c2acb8afbb6b497d3ec5d9516469231b4999d757ed9d47377e4e"
+  },
+  {
+    "path": "项目源码/scripts/sample/tinygsm/candi_lr1e-3.sh",
+    "bytes": 967,
+    "sha256": "91b8dc596ad9de3975192b73141419409c1c5159d226c1bb52944d4e9c391654"
+  },
+  {
+    "path": "项目源码/scripts/sample/tinygsm/candi_lr3e-4.sh",
+    "bytes": 967,
+    "sha256": "5d474353dd8e04d6a3501f6f62adb10c8f70684b399e669525ee7589b4f14b2c"
+  },
+  {
+    "path": "项目源码/scripts/sample/tinygsm/duo.sh",
+    "bytes": 950,
+    "sha256": "c8e6c19f8b47bbd8e14923b92153abf42b2eca71f88e89984f79777f010926ad"
+  },
+  {
+    "path": "项目源码/scripts/sample/tinygsm/flm_caps.sh",
+    "bytes": 1033,
+    "sha256": "94d78999c82a15a1b6be3a508a131c92ce6d20a04ba8943e4e13f7f47f53adc2"
+  },
+  {
+    "path": "项目源码/scripts/sample/tinygsm/flm_default.sh",
+    "bytes": 988,
+    "sha256": "deb4e0faa07e08ed541b4476cdf15f37083915351217d639d71a1518ae829a89"
+  },
+  {
+    "path": "项目源码/scripts/sample/tinygsm/mdlm.sh",
+    "bytes": 948,
+    "sha256": "16a7e099922bdd22c05c1b5a33540b5f3a48d27cc508ae654d08442947b0f428"
+  },
+  {
+    "path": "项目源码/scripts/sample/tinygsm/sfm_sphere_arch_truncated_adaptive_no_renorm.sh",
+    "bytes": 1686,
+    "sha256": "14d03bf365ea8f5be05179e11f858f459807eaeb856683b2a83b391109e28597"
+  },
+  {
+    "path": "项目源码/scripts/sample/tinygsm/sfm_sphere_dit_truncated_adaptive_no_renorm.sh",
+    "bytes": 1666,
+    "sha256": "31728cd2912d22dfa0d187a0dec30b7064e6139a73520b0f773257aae6d28cb4"
+  },
+  {
+    "path": "项目源码/scripts/sample/tinygsm/sfm_sphere_dit_truncated_fixed_no_renorm.sh",
+    "bytes": 1446,
+    "sha256": "9475842a386f5ca088e9fd541134751dc995aac3a745079980cf9366af120eb1"
+  },
+  {
+    "path": "项目源码/scripts/train/owt/ar.sh",
+    "bytes": 844,
+    "sha256": "3e53b242e4643c6b1587a674536a3e64e94dcebc131a7ecc12a981a9b7a1a608"
+  },
+  {
+    "path": "项目源码/scripts/train/owt/duo.sh",
+    "bytes": 834,
+    "sha256": "62815e24c9e940651c78e343a39005d96ae67e9f22101faeb827aa7109717f0d"
+  },
+  {
+    "path": "项目源码/scripts/train/owt/flm.sh",
+    "bytes": 880,
+    "sha256": "2992e8e7fcc831e5bf39fb4ca6d7d05a12093ee18c5933155e3bd70f2dd9f892"
+  },
+  {
+    "path": "项目源码/scripts/train/owt/mdlm.sh",
+    "bytes": 831,
+    "sha256": "642d4b74747fa0daf43bd13fe22eae7bc9f860a30c300c8c4068e530a5c45209"
+  },
+  {
+    "path": "项目源码/scripts/train/owt/sfm.sh",
+    "bytes": 1238,
+    "sha256": "8a142bde746630247f1a9e4a1f34783227d4cb3371972261fa16ee7b90c5effc"
+  },
+  {
+    "path": "项目源码/scripts/train/sudoku/ar.sh",
+    "bytes": 928,
+    "sha256": "6f7f0ff07166253d2a9740759a0e5f9e676378988206e520eefb2aa7e734503c"
+  },
+  {
+    "path": "项目源码/scripts/train/sudoku/candi.sh",
+    "bytes": 974,
+    "sha256": "68146251ddf93bddc5c9368697f7fabbc3ddd9b77ae305382c2927da703a6527"
+  },
+  {
+    "path": "项目源码/scripts/train/sudoku/duo.sh",
+    "bytes": 969,
+    "sha256": "b07d16bd987ce566fe4f87908c3fb93ff3f18c60fac701870b557cab9eb72a32"
+  },
+  {
+    "path": "项目源码/scripts/train/sudoku/flm.sh",
+    "bytes": 968,
+    "sha256": "10bb47f647850b21c8eba72d6acf45ba2053b02f645d2ed88087a112f6ed6423"
+  },
+  {
+    "path": "项目源码/scripts/train/sudoku/mdlm.sh",
+    "bytes": 966,
+    "sha256": "0956f5f6373ba379a6ff65f2443194f9e393c57053996c7b100fd06e6212caba"
+  },
+  {
+    "path": "项目源码/scripts/train/sudoku/sfm_truncated_adaptive.sh",
+    "bytes": 1295,
+    "sha256": "6de39f69fe824874e5754f2cc049e7949514832d592283d68aebcb9f6cfac54e"
+  },
+  {
+    "path": "项目源码/scripts/train/sudoku/sfm_truncated.sh",
+    "bytes": 1076,
+    "sha256": "7fd6d3d7eca433da563b11193c9d649ad7187921edfec0e376ec4724057dfe9f"
+  },
+  {
+    "path": "项目源码/scripts/train/sudoku/sfm.sh",
+    "bytes": 1038,
+    "sha256": "f05c3803127a7b22daec6af23d277ff7cc50593d215dd21cd62e7a629f653df5"
+  },
+  {
+    "path": "项目源码/scripts/train/tinygsm/ar.sh",
+    "bytes": 1072,
+    "sha256": "f376c6df738643db4b9234a69ae3eabc03c52d6e1a05f6ca5ab9a8bee5537708"
+  },
+  {
+    "path": "项目源码/scripts/train/tinygsm/candi_lr1e-3.sh",
+    "bytes": 1114,
+    "sha256": "5ea3c2948632fef02ef968326a061f7998bd266b2855efbc2348c16441991666"
+  },
+  {
+    "path": "项目源码/scripts/train/tinygsm/candi_lr3e-4.sh",
+    "bytes": 1094,
+    "sha256": "84b53993214926e92b07df9c090f3c0c7cb4c46a4a776a307d1751084cd68963"
+  },
+  {
+    "path": "项目源码/scripts/train/tinygsm/duo.sh",
+    "bytes": 1062,
+    "sha256": "62f46f9ba50800667b72bf7eb403728a2a75722048b6f94ccafb97d1366aa6a4"
+  },
+  {
+    "path": "项目源码/scripts/train/tinygsm/flm_caps.sh",
+    "bytes": 1164,
+    "sha256": "44237e6659afa630d09971287b4e355fba5b0ea9f96060626aba6f629c656a92"
+  },
+  {
+    "path": "项目源码/scripts/train/tinygsm/flm_default.sh",
+    "bytes": 1116,
+    "sha256": "2439cbd926cb6423fe1c6bcf4a664fc03637d62a6271721b264424fbcd7fec66"
+  },
+  {
+    "path": "项目源码/scripts/train/tinygsm/mdlm.sh",
+    "bytes": 1059,
+    "sha256": "4aed0aadde220d5565c264e77d4d653d7db85eb36fdb696fa9025aa3459b64ae"
+  },
+  {
+    "path": "项目源码/scripts/train/tinygsm/sfm_sphere_arch_truncated_adaptive_no_renorm.sh",
+    "bytes": 1526,
+    "sha256": "56e77b2c73baa48ec9c09a15eab513b67fdd0a5259c51b52538797357c2b8289"
+  },
+  {
+    "path": "项目源码/scripts/train/tinygsm/sfm_sphere_dit_truncated_adaptive_no_renorm.sh",
+    "bytes": 1507,
+    "sha256": "11acf48adb302a64613a54a16ee10c3d564f7c604da957b793e14bdee8ac1a62"
+  },
+  {
+    "path": "项目源码/scripts/train/tinygsm/sfm_sphere_dit_truncated_fixed_no_renorm.sh",
+    "bytes": 1242,
+    "sha256": "33cca06a9d20c05e4971bce916afc0e99f19d0d5b3c6c0ab384129c0d9f516ae"
+  },
+  {
+    "path": "模型权重清单.json",
+    "bytes": 1718,
+    "sha256": "c95fadd2a1185e1f0a03170cb35dbd0a0f4af22c58334b79ffbb4cbcd61a27f6"
+  },
+  {
+    "path": "项目源码/outputs/rl_pilot64_20261022_174012_898690/group016.ckpt",
+    "bytes": 1345262400,
+    "sha256": "68fdbfc93d938d08ff86249f92e7eab83f099d4e619893af8380d042315573c6"
+  },
+  {
+    "path": "项目源码/outputs/sft_sepfix_20261022_171041_876248/checkpoints/best-step000400.ckpt",
+    "bytes": 1345279577,
+    "sha256": "beda166a89a57ebf063c0e6bc8bb1c9242a61d751f52e0b90d2769248fbf7362"
+  }
+]

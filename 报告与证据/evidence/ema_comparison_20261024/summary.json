@@ -1,0 +1,42 @@
+{
+  "status": "completed",
+  "checkpoint": "/home/chen/projects/s-flm/outputs/sft_sepfix_20261022_171041_876248/checkpoints/best-step000400.ckpt",
+  "unique_questions": 128,
+  "samples_per_variant": 384,
+  "seeds": [
+    202,
+    303,
+    404
+  ],
+  "ema_correct": 26,
+  "raw_correct": 12,
+  "ema_accuracy": 0.06770833333333333,
+  "raw_accuracy": 0.03125,
+  "raw_minus_ema": -14,
+  "paired_results": [
+    {
+      "seed": 202,
+      "ema_correct": 9,
+      "raw_correct": 4,
+      "raw_gained": 2,
+      "raw_lost": 7
+    },
+    {
+      "seed": 303,
+      "ema_correct": 8,
+      "raw_correct": 5,
+      "raw_gained": 2,
+      "raw_lost": 5
+    },
+    {
+      "seed": 404,
+      "ema_correct": 9,
+      "raw_correct": 3,
+      "raw_gained": 2,
+      "raw_lost": 8
+    }
+  ],
+  "seconds": 235.79998855199997,
+  "peak_allocated_GiB": 1.6876554489135742,
+  "output_dir": "/home/chen/projects/s-flm/outputs/sft_ema_vs_raw_20261024_165836_733187"
+}

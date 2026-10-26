@@ -1,0 +1,514 @@
+[
+  {
+    "prompt": "Anika has 4 more than twice the number of pencils as Reeta. If Reeta has 20 pencils, how many pencils do the two have together?",
+    "response_ground_truth": "If Reeta has 20 pencils, then twice that number is 2*20 = 40 pencils.\nAnika has 4 more than twice the number of pencils as Reeta, which means she has 40+4 = 44 pencils.\nTogether, the two have 44+20 = <<44+20=64>>64 pencils\n#### 64"
+  },
+  {
+    "prompt": "Anika has 4 more than twice the number of pencils as Reeta. If Reeta has 20 pencils, how many pencils do the two have together?",
+    "response_ground_truth": "If Reeta has 20 pencils, then twice that number is 2*20 = 40 pencils.\nAnika has 4 more than twice the number of pencils as Reeta, which means she has 40+4 = 44 pencils.\nTogether, the two have 44+20 = <<44+20=64>>64 pencils\n#### 64"
+  },
+  {
+    "prompt": "Anika has 4 more than twice the number of pencils as Reeta. If Reeta has 20 pencils, how many pencils do the two have together?",
+    "response_ground_truth": "If Reeta has 20 pencils, then twice that number is 2*20 = 40 pencils.\nAnika has 4 more than twice the number of pencils as Reeta, which means she has 40+4 = 44 pencils.\nTogether, the two have 44+20 = <<44+20=64>>64 pencils\n#### 64"
+  },
+  {
+    "prompt": "Anika has 4 more than twice the number of pencils as Reeta. If Reeta has 20 pencils, how many pencils do the two have together?",
+    "response_ground_truth": "If Reeta has 20 pencils, then twice that number is 2*20 = 40 pencils.\nAnika has 4 more than twice the number of pencils as Reeta, which means she has 40+4 = 44 pencils.\nTogether, the two have 44+20 = <<44+20=64>>64 pencils\n#### 64"
+  },
+  {
+    "prompt": "Anika has 4 more than twice the number of pencils as Reeta. If Reeta has 20 pencils, how many pencils do the two have together?",
+    "response_ground_truth": "If Reeta has 20 pencils, then twice that number is 2*20 = 40 pencils.\nAnika has 4 more than twice the number of pencils as Reeta, which means she has 40+4 = 44 pencils.\nTogether, the two have 44+20 = <<44+20=64>>64 pencils\n#### 64"
+  },
+  {
+    "prompt": "Anika has 4 more than twice the number of pencils as Reeta. If Reeta has 20 pencils, how many pencils do the two have together?",
+    "response_ground_truth": "If Reeta has 20 pencils, then twice that number is 2*20 = 40 pencils.\nAnika has 4 more than twice the number of pencils as Reeta, which means she has 40+4 = 44 pencils.\nTogether, the two have 44+20 = <<44+20=64>>64 pencils\n#### 64"
+  },
+  {
+    "prompt": "Anika has 4 more than twice the number of pencils as Reeta. If Reeta has 20 pencils, how many pencils do the two have together?",
+    "response_ground_truth": "If Reeta has 20 pencils, then twice that number is 2*20 = 40 pencils.\nAnika has 4 more than twice the number of pencils as Reeta, which means she has 40+4 = 44 pencils.\nTogether, the two have 44+20 = <<44+20=64>>64 pencils\n#### 64"
+  },
+  {
+    "prompt": "Anika has 4 more than twice the number of pencils as Reeta. If Reeta has 20 pencils, how many pencils do the two have together?",
+    "response_ground_truth": "If Reeta has 20 pencils, then twice that number is 2*20 = 40 pencils.\nAnika has 4 more than twice the number of pencils as Reeta, which means she has 40+4 = 44 pencils.\nTogether, the two have 44+20 = <<44+20=64>>64 pencils\n#### 64"
+  },
+  {
+    "prompt": "Beth had 150 students in her 10th-grade class.  The following year 30 more students join.  In her final year, 15 students left.  How many students did Beth have in her class at the end of her final year?",
+    "response_ground_truth": "Beth had 150 students her 10th-grade year, and added 30 more the following for a total of 150+30= <<150+30=180>>180 students\nIn her final year, 15 students left her class, bringing her total to 180-15=165 students\n#### 165"
+  },
+  {
+    "prompt": "Beth had 150 students in her 10th-grade class.  The following year 30 more students join.  In her final year, 15 students left.  How many students did Beth have in her class at the end of her final year?",
+    "response_ground_truth": "Beth had 150 students her 10th-grade year, and added 30 more the following for a total of 150+30= <<150+30=180>>180 students\nIn her final year, 15 students left her class, bringing her total to 180-15=165 students\n#### 165"
+  },
+  {
+    "prompt": "Beth had 150 students in her 10th-grade class.  The following year 30 more students join.  In her final year, 15 students left.  How many students did Beth have in her class at the end of her final year?",
+    "response_ground_truth": "Beth had 150 students her 10th-grade year, and added 30 more the following for a total of 150+30= <<150+30=180>>180 students\nIn her final year, 15 students left her class, bringing her total to 180-15=165 students\n#### 165"
+  },
+  {
+    "prompt": "Beth had 150 students in her 10th-grade class.  The following year 30 more students join.  In her final year, 15 students left.  How many students did Beth have in her class at the end of her final year?",
+    "response_ground_truth": "Beth had 150 students her 10th-grade year, and added 30 more the following for a total of 150+30= <<150+30=180>>180 students\nIn her final year, 15 students left her class, bringing her total to 180-15=165 students\n#### 165"
+  },
+  {
+    "prompt": "Beth had 150 students in her 10th-grade class.  The following year 30 more students join.  In her final year, 15 students left.  How many students did Beth have in her class at the end of her final year?",
+    "response_ground_truth": "Beth had 150 students her 10th-grade year, and added 30 more the following for a total of 150+30= <<150+30=180>>180 students\nIn her final year, 15 students left her class, bringing her total to 180-15=165 students\n#### 165"
+  },
+  {
+    "prompt": "Beth had 150 students in her 10th-grade class.  The following year 30 more students join.  In her final year, 15 students left.  How many students did Beth have in her class at the end of her final year?",
+    "response_ground_truth": "Beth had 150 students her 10th-grade year, and added 30 more the following for a total of 150+30= <<150+30=180>>180 students\nIn her final year, 15 students left her class, bringing her total to 180-15=165 students\n#### 165"
+  },
+  {
+    "prompt": "Beth had 150 students in her 10th-grade class.  The following year 30 more students join.  In her final year, 15 students left.  How many students did Beth have in her class at the end of her final year?",
+    "response_ground_truth": "Beth had 150 students her 10th-grade year, and added 30 more the following for a total of 150+30= <<150+30=180>>180 students\nIn her final year, 15 students left her class, bringing her total to 180-15=165 students\n#### 165"
+  },
+  {
+    "prompt": "Beth had 150 students in her 10th-grade class.  The following year 30 more students join.  In her final year, 15 students left.  How many students did Beth have in her class at the end of her final year?",
+    "response_ground_truth": "Beth had 150 students her 10th-grade year, and added 30 more the following for a total of 150+30= <<150+30=180>>180 students\nIn her final year, 15 students left her class, bringing her total to 180-15=165 students\n#### 165"
+  },
+  {
+    "prompt": "Matt did his homework for 150 minutes. He spent 30% of that time on math and 40% on science. He spent the remaining time on other subjects. How much time did Matt spend on homework in other subjects?",
+    "response_ground_truth": "Matt spent on math and science 30% + 40% = 70% of the time.\nThis means he did homework from these two subjects for 70/100 * 150 minutes = <<70/100*150=105>>105 minutes.\nSo Matt spent 150 minutes - 105 minutes = <<150-105=45>>45 minutes doing homework from other subjects.\n#### 45"
+  },
+  {
+    "prompt": "Matt did his homework for 150 minutes. He spent 30% of that time on math and 40% on science. He spent the remaining time on other subjects. How much time did Matt spend on homework in other subjects?",
+    "response_ground_truth": "Matt spent on math and science 30% + 40% = 70% of the time.\nThis means he did homework from these two subjects for 70/100 * 150 minutes = <<70/100*150=105>>105 minutes.\nSo Matt spent 150 minutes - 105 minutes = <<150-105=45>>45 minutes doing homework from other subjects.\n#### 45"
+  },
+  {
+    "prompt": "Matt did his homework for 150 minutes. He spent 30% of that time on math and 40% on science. He spent the remaining time on other subjects. How much time did Matt spend on homework in other subjects?",
+    "response_ground_truth": "Matt spent on math and science 30% + 40% = 70% of the time.\nThis means he did homework from these two subjects for 70/100 * 150 minutes = <<70/100*150=105>>105 minutes.\nSo Matt spent 150 minutes - 105 minutes = <<150-105=45>>45 minutes doing homework from other subjects.\n#### 45"
+  },
+  {
+    "prompt": "Matt did his homework for 150 minutes. He spent 30% of that time on math and 40% on science. He spent the remaining time on other subjects. How much time did Matt spend on homework in other subjects?",
+    "response_ground_truth": "Matt spent on math and science 30% + 40% = 70% of the time.\nThis means he did homework from these two subjects for 70/100 * 150 minutes = <<70/100*150=105>>105 minutes.\nSo Matt spent 150 minutes - 105 minutes = <<150-105=45>>45 minutes doing homework from other subjects.\n#### 45"
+  },
+  {
+    "prompt": "Matt did his homework for 150 minutes. He spent 30% of that time on math and 40% on science. He spent the remaining time on other subjects. How much time did Matt spend on homework in other subjects?",
+    "response_ground_truth": "Matt spent on math and science 30% + 40% = 70% of the time.\nThis means he did homework from these two subjects for 70/100 * 150 minutes = <<70/100*150=105>>105 minutes.\nSo Matt spent 150 minutes - 105 minutes = <<150-105=45>>45 minutes doing homework from other subjects.\n#### 45"
+  },
+  {
+    "prompt": "Matt did his homework for 150 minutes. He spent 30% of that time on math and 40% on science. He spent the remaining time on other subjects. How much time did Matt spend on homework in other subjects?",
+    "response_ground_truth": "Matt spent on math and science 30% + 40% = 70% of the time.\nThis means he did homework from these two subjects for 70/100 * 150 minutes = <<70/100*150=105>>105 minutes.\nSo Matt spent 150 minutes - 105 minutes = <<150-105=45>>45 minutes doing homework from other subjects.\n#### 45"
+  },
+  {
+    "prompt": "Matt did his homework for 150 minutes. He spent 30% of that time on math and 40% on science. He spent the remaining time on other subjects. How much time did Matt spend on homework in other subjects?",
+    "response_ground_truth": "Matt spent on math and science 30% + 40% = 70% of the time.\nThis means he did homework from these two subjects for 70/100 * 150 minutes = <<70/100*150=105>>105 minutes.\nSo Matt spent 150 minutes - 105 minutes = <<150-105=45>>45 minutes doing homework from other subjects.\n#### 45"
+  },
+  {
+    "prompt": "Matt did his homework for 150 minutes. He spent 30% of that time on math and 40% on science. He spent the remaining time on other subjects. How much time did Matt spend on homework in other subjects?",
+    "response_ground_truth": "Matt spent on math and science 30% + 40% = 70% of the time.\nThis means he did homework from these two subjects for 70/100 * 150 minutes = <<70/100*150=105>>105 minutes.\nSo Matt spent 150 minutes - 105 minutes = <<150-105=45>>45 minutes doing homework from other subjects.\n#### 45"
+  },
+  {
+    "prompt": "Shawna has 7 acorns. Sheila has 5 times as many acorns as Shawna, but 3 fewer acorns than Danny. How many acorns do they have altogether?",
+    "response_ground_truth": "Sheila has 7 x 5 = <<7*5=35>>35 acorns.\nDanny has 35 + 3 = <<35+3=38>>38 acorns.\nAltogether, they have 7 + 35 + 38 = <<7+35+38=80>>80 acorns\n#### 80"
+  },
+  {
+    "prompt": "Shawna has 7 acorns. Sheila has 5 times as many acorns as Shawna, but 3 fewer acorns than Danny. How many acorns do they have altogether?",
+    "response_ground_truth": "Sheila has 7 x 5 = <<7*5=35>>35 acorns.\nDanny has 35 + 3 = <<35+3=38>>38 acorns.\nAltogether, they have 7 + 35 + 38 = <<7+35+38=80>>80 acorns\n#### 80"
+  },
+  {
+    "prompt": "Shawna has 7 acorns. Sheila has 5 times as many acorns as Shawna, but 3 fewer acorns than Danny. How many acorns do they have altogether?",
+    "response_ground_truth": "Sheila has 7 x 5 = <<7*5=35>>35 acorns.\nDanny has 35 + 3 = <<35+3=38>>38 acorns.\nAltogether, they have 7 + 35 + 38 = <<7+35+38=80>>80 acorns\n#### 80"
+  },
+  {
+    "prompt": "Shawna has 7 acorns. Sheila has 5 times as many acorns as Shawna, but 3 fewer acorns than Danny. How many acorns do they have altogether?",
+    "response_ground_truth": "Sheila has 7 x 5 = <<7*5=35>>35 acorns.\nDanny has 35 + 3 = <<35+3=38>>38 acorns.\nAltogether, they have 7 + 35 + 38 = <<7+35+38=80>>80 acorns\n#### 80"
+  },
+  {
+    "prompt": "Shawna has 7 acorns. Sheila has 5 times as many acorns as Shawna, but 3 fewer acorns than Danny. How many acorns do they have altogether?",
+    "response_ground_truth": "Sheila has 7 x 5 = <<7*5=35>>35 acorns.\nDanny has 35 + 3 = <<35+3=38>>38 acorns.\nAltogether, they have 7 + 35 + 38 = <<7+35+38=80>>80 acorns\n#### 80"
+  },
+  {
+    "prompt": "Shawna has 7 acorns. Sheila has 5 times as many acorns as Shawna, but 3 fewer acorns than Danny. How many acorns do they have altogether?",
+    "response_ground_truth": "Sheila has 7 x 5 = <<7*5=35>>35 acorns.\nDanny has 35 + 3 = <<35+3=38>>38 acorns.\nAltogether, they have 7 + 35 + 38 = <<7+35+38=80>>80 acorns\n#### 80"
+  },
+  {
+    "prompt": "Shawna has 7 acorns. Sheila has 5 times as many acorns as Shawna, but 3 fewer acorns than Danny. How many acorns do they have altogether?",
+    "response_ground_truth": "Sheila has 7 x 5 = <<7*5=35>>35 acorns.\nDanny has 35 + 3 = <<35+3=38>>38 acorns.\nAltogether, they have 7 + 35 + 38 = <<7+35+38=80>>80 acorns\n#### 80"
+  },
+  {
+    "prompt": "Shawna has 7 acorns. Sheila has 5 times as many acorns as Shawna, but 3 fewer acorns than Danny. How many acorns do they have altogether?",
+    "response_ground_truth": "Sheila has 7 x 5 = <<7*5=35>>35 acorns.\nDanny has 35 + 3 = <<35+3=38>>38 acorns.\nAltogether, they have 7 + 35 + 38 = <<7+35+38=80>>80 acorns\n#### 80"
+  },
+  {
+    "prompt": "Harly's animal shelter has 80 dogs. She adopts out 40% of them but then has to take back 5 because of personality conflicts with other dogs in their adopted homes. How many dogs does she have now?",
+    "response_ground_truth": "First find how many dogs are adopted out: 80 dogs * 40% = <<80*40*.01=32>>32 dogs\nThen subtract the number of dogs adopted out from the total number of dogs and add the number who were returned to find the final number of dogs: 80 dogs - 32 dogs + 5 dogs = <<80-32+5=53>>53 dogs\n#### 53"
+  },
+  {
+    "prompt": "Harly's animal shelter has 80 dogs. She adopts out 40% of them but then has to take back 5 because of personality conflicts with other dogs in their adopted homes. How many dogs does she have now?",
+    "response_ground_truth": "First find how many dogs are adopted out: 80 dogs * 40% = <<80*40*.01=32>>32 dogs\nThen subtract the number of dogs adopted out from the total number of dogs and add the number who were returned to find the final number of dogs: 80 dogs - 32 dogs + 5 dogs = <<80-32+5=53>>53 dogs\n#### 53"
+  },
+  {
+    "prompt": "Harly's animal shelter has 80 dogs. She adopts out 40% of them but then has to take back 5 because of personality conflicts with other dogs in their adopted homes. How many dogs does she have now?",
+    "response_ground_truth": "First find how many dogs are adopted out: 80 dogs * 40% = <<80*40*.01=32>>32 dogs\nThen subtract the number of dogs adopted out from the total number of dogs and add the number who were returned to find the final number of dogs: 80 dogs - 32 dogs + 5 dogs = <<80-32+5=53>>53 dogs\n#### 53"
+  },
+  {
+    "prompt": "Harly's animal shelter has 80 dogs. She adopts out 40% of them but then has to take back 5 because of personality conflicts with other dogs in their adopted homes. How many dogs does she have now?",
+    "response_ground_truth": "First find how many dogs are adopted out: 80 dogs * 40% = <<80*40*.01=32>>32 dogs\nThen subtract the number of dogs adopted out from the total number of dogs and add the number who were returned to find the final number of dogs: 80 dogs - 32 dogs + 5 dogs = <<80-32+5=53>>53 dogs\n#### 53"
+  },
+  {
+    "prompt": "Harly's animal shelter has 80 dogs. She adopts out 40% of them but then has to take back 5 because of personality conflicts with other dogs in their adopted homes. How many dogs does she have now?",
+    "response_ground_truth": "First find how many dogs are adopted out: 80 dogs * 40% = <<80*40*.01=32>>32 dogs\nThen subtract the number of dogs adopted out from the total number of dogs and add the number who were returned to find the final number of dogs: 80 dogs - 32 dogs + 5 dogs = <<80-32+5=53>>53 dogs\n#### 53"
+  },
+  {
+    "prompt": "Harly's animal shelter has 80 dogs. She adopts out 40% of them but then has to take back 5 because of personality conflicts with other dogs in their adopted homes. How many dogs does she have now?",
+    "response_ground_truth": "First find how many dogs are adopted out: 80 dogs * 40% = <<80*40*.01=32>>32 dogs\nThen subtract the number of dogs adopted out from the total number of dogs and add the number who were returned to find the final number of dogs: 80 dogs - 32 dogs + 5 dogs = <<80-32+5=53>>53 dogs\n#### 53"
+  },
+  {
+    "prompt": "Harly's animal shelter has 80 dogs. She adopts out 40% of them but then has to take back 5 because of personality conflicts with other dogs in their adopted homes. How many dogs does she have now?",
+    "response_ground_truth": "First find how many dogs are adopted out: 80 dogs * 40% = <<80*40*.01=32>>32 dogs\nThen subtract the number of dogs adopted out from the total number of dogs and add the number who were returned to find the final number of dogs: 80 dogs - 32 dogs + 5 dogs = <<80-32+5=53>>53 dogs\n#### 53"
+  },
+  {
+    "prompt": "Harly's animal shelter has 80 dogs. She adopts out 40% of them but then has to take back 5 because of personality conflicts with other dogs in their adopted homes. How many dogs does she have now?",
+    "response_ground_truth": "First find how many dogs are adopted out: 80 dogs * 40% = <<80*40*.01=32>>32 dogs\nThen subtract the number of dogs adopted out from the total number of dogs and add the number who were returned to find the final number of dogs: 80 dogs - 32 dogs + 5 dogs = <<80-32+5=53>>53 dogs\n#### 53"
+  },
+  {
+    "prompt": "At Sunshine Orchard, there are 12 more than three times the number of pumpkins at Moonglow Orchard. If Moonglow Orchard has 14 pumpkins how many are there at Sunshine Orchard?",
+    "response_ground_truth": "Three times the number of pumpkins at Moonglow Orchard is 14*3= <<14*3=42>>42\nSunshine Orchard has 12+42= <<12+42=54>>54 pumpkins\n#### 54"
+  },
+  {
+    "prompt": "At Sunshine Orchard, there are 12 more than three times the number of pumpkins at Moonglow Orchard. If Moonglow Orchard has 14 pumpkins how many are there at Sunshine Orchard?",
+    "response_ground_truth": "Three times the number of pumpkins at Moonglow Orchard is 14*3= <<14*3=42>>42\nSunshine Orchard has 12+42= <<12+42=54>>54 pumpkins\n#### 54"
+  },
+  {
+    "prompt": "At Sunshine Orchard, there are 12 more than three times the number of pumpkins at Moonglow Orchard. If Moonglow Orchard has 14 pumpkins how many are there at Sunshine Orchard?",
+    "response_ground_truth": "Three times the number of pumpkins at Moonglow Orchard is 14*3= <<14*3=42>>42\nSunshine Orchard has 12+42= <<12+42=54>>54 pumpkins\n#### 54"
+  },
+  {
+    "prompt": "At Sunshine Orchard, there are 12 more than three times the number of pumpkins at Moonglow Orchard. If Moonglow Orchard has 14 pumpkins how many are there at Sunshine Orchard?",
+    "response_ground_truth": "Three times the number of pumpkins at Moonglow Orchard is 14*3= <<14*3=42>>42\nSunshine Orchard has 12+42= <<12+42=54>>54 pumpkins\n#### 54"
+  },
+  {
+    "prompt": "At Sunshine Orchard, there are 12 more than three times the number of pumpkins at Moonglow Orchard. If Moonglow Orchard has 14 pumpkins how many are there at Sunshine Orchard?",
+    "response_ground_truth": "Three times the number of pumpkins at Moonglow Orchard is 14*3= <<14*3=42>>42\nSunshine Orchard has 12+42= <<12+42=54>>54 pumpkins\n#### 54"
+  },
+  {
+    "prompt": "At Sunshine Orchard, there are 12 more than three times the number of pumpkins at Moonglow Orchard. If Moonglow Orchard has 14 pumpkins how many are there at Sunshine Orchard?",
+    "response_ground_truth": "Three times the number of pumpkins at Moonglow Orchard is 14*3= <<14*3=42>>42\nSunshine Orchard has 12+42= <<12+42=54>>54 pumpkins\n#### 54"
+  },
+  {
+    "prompt": "At Sunshine Orchard, there are 12 more than three times the number of pumpkins at Moonglow Orchard. If Moonglow Orchard has 14 pumpkins how many are there at Sunshine Orchard?",
+    "response_ground_truth": "Three times the number of pumpkins at Moonglow Orchard is 14*3= <<14*3=42>>42\nSunshine Orchard has 12+42= <<12+42=54>>54 pumpkins\n#### 54"
+  },
+  {
+    "prompt": "At Sunshine Orchard, there are 12 more than three times the number of pumpkins at Moonglow Orchard. If Moonglow Orchard has 14 pumpkins how many are there at Sunshine Orchard?",
+    "response_ground_truth": "Three times the number of pumpkins at Moonglow Orchard is 14*3= <<14*3=42>>42\nSunshine Orchard has 12+42= <<12+42=54>>54 pumpkins\n#### 54"
+  },
+  {
+    "prompt": "I run 12 miles in 90 minutes. What is my average speed in miles per hour?",
+    "response_ground_truth": "First convert 90 minutes to hours: 90 minutes / 60 minutes/hours = <<90/60=1.5>>1.5 hours.\nIn 1 hour, I run 12 miles / 1.5 hours = <<12/1.5=8>>8 miles/hour.\n#### 8"
+  },
+  {
+    "prompt": "I run 12 miles in 90 minutes. What is my average speed in miles per hour?",
+    "response_ground_truth": "First convert 90 minutes to hours: 90 minutes / 60 minutes/hours = <<90/60=1.5>>1.5 hours.\nIn 1 hour, I run 12 miles / 1.5 hours = <<12/1.5=8>>8 miles/hour.\n#### 8"
+  },
+  {
+    "prompt": "I run 12 miles in 90 minutes. What is my average speed in miles per hour?",
+    "response_ground_truth": "First convert 90 minutes to hours: 90 minutes / 60 minutes/hours = <<90/60=1.5>>1.5 hours.\nIn 1 hour, I run 12 miles / 1.5 hours = <<12/1.5=8>>8 miles/hour.\n#### 8"
+  },
+  {
+    "prompt": "I run 12 miles in 90 minutes. What is my average speed in miles per hour?",
+    "response_ground_truth": "First convert 90 minutes to hours: 90 minutes / 60 minutes/hours = <<90/60=1.5>>1.5 hours.\nIn 1 hour, I run 12 miles / 1.5 hours = <<12/1.5=8>>8 miles/hour.\n#### 8"
+  },
+  {
+    "prompt": "I run 12 miles in 90 minutes. What is my average speed in miles per hour?",
+    "response_ground_truth": "First convert 90 minutes to hours: 90 minutes / 60 minutes/hours = <<90/60=1.5>>1.5 hours.\nIn 1 hour, I run 12 miles / 1.5 hours = <<12/1.5=8>>8 miles/hour.\n#### 8"
+  },
+  {
+    "prompt": "I run 12 miles in 90 minutes. What is my average speed in miles per hour?",
+    "response_ground_truth": "First convert 90 minutes to hours: 90 minutes / 60 minutes/hours = <<90/60=1.5>>1.5 hours.\nIn 1 hour, I run 12 miles / 1.5 hours = <<12/1.5=8>>8 miles/hour.\n#### 8"
+  },
+  {
+    "prompt": "I run 12 miles in 90 minutes. What is my average speed in miles per hour?",
+    "response_ground_truth": "First convert 90 minutes to hours: 90 minutes / 60 minutes/hours = <<90/60=1.5>>1.5 hours.\nIn 1 hour, I run 12 miles / 1.5 hours = <<12/1.5=8>>8 miles/hour.\n#### 8"
+  },
+  {
+    "prompt": "I run 12 miles in 90 minutes. What is my average speed in miles per hour?",
+    "response_ground_truth": "First convert 90 minutes to hours: 90 minutes / 60 minutes/hours = <<90/60=1.5>>1.5 hours.\nIn 1 hour, I run 12 miles / 1.5 hours = <<12/1.5=8>>8 miles/hour.\n#### 8"
+  },
+  {
+    "prompt": "New York is two-thirds as populated as all of New England. If New England has 2100000 people, calculate the combined population of both states.",
+    "response_ground_truth": "New York is two-thirds as populated as all of New England, meaning there are 2/3*2100000 = <<2/3*2100000=1400000>>1400000 people living in New York.\nThe combined population of both states is 1400000+2100000 = <<1400000+2100000=3500000>>3500000\n#### 3500000"
+  },
+  {
+    "prompt": "New York is two-thirds as populated as all of New England. If New England has 2100000 people, calculate the combined population of both states.",
+    "response_ground_truth": "New York is two-thirds as populated as all of New England, meaning there are 2/3*2100000 = <<2/3*2100000=1400000>>1400000 people living in New York.\nThe combined population of both states is 1400000+2100000 = <<1400000+2100000=3500000>>3500000\n#### 3500000"
+  },
+  {
+    "prompt": "New York is two-thirds as populated as all of New England. If New England has 2100000 people, calculate the combined population of both states.",
+    "response_ground_truth": "New York is two-thirds as populated as all of New England, meaning there are 2/3*2100000 = <<2/3*2100000=1400000>>1400000 people living in New York.\nThe combined population of both states is 1400000+2100000 = <<1400000+2100000=3500000>>3500000\n#### 3500000"
+  },
+  {
+    "prompt": "New York is two-thirds as populated as all of New England. If New England has 2100000 people, calculate the combined population of both states.",
+    "response_ground_truth": "New York is two-thirds as populated as all of New England, meaning there are 2/3*2100000 = <<2/3*2100000=1400000>>1400000 people living in New York.\nThe combined population of both states is 1400000+2100000 = <<1400000+2100000=3500000>>3500000\n#### 3500000"
+  },
+  {
+    "prompt": "New York is two-thirds as populated as all of New England. If New England has 2100000 people, calculate the combined population of both states.",
+    "response_ground_truth": "New York is two-thirds as populated as all of New England, meaning there are 2/3*2100000 = <<2/3*2100000=1400000>>1400000 people living in New York.\nThe combined population of both states is 1400000+2100000 = <<1400000+2100000=3500000>>3500000\n#### 3500000"
+  },
+  {
+    "prompt": "New York is two-thirds as populated as all of New England. If New England has 2100000 people, calculate the combined population of both states.",
+    "response_ground_truth": "New York is two-thirds as populated as all of New England, meaning there are 2/3*2100000 = <<2/3*2100000=1400000>>1400000 people living in New York.\nThe combined population of both states is 1400000+2100000 = <<1400000+2100000=3500000>>3500000\n#### 3500000"
+  },
+  {
+    "prompt": "New York is two-thirds as populated as all of New England. If New England has 2100000 people, calculate the combined population of both states.",
+    "response_ground_truth": "New York is two-thirds as populated as all of New England, meaning there are 2/3*2100000 = <<2/3*2100000=1400000>>1400000 people living in New York.\nThe combined population of both states is 1400000+2100000 = <<1400000+2100000=3500000>>3500000\n#### 3500000"
+  },
+  {
+    "prompt": "New York is two-thirds as populated as all of New England. If New England has 2100000 people, calculate the combined population of both states.",
+    "response_ground_truth": "New York is two-thirds as populated as all of New England, meaning there are 2/3*2100000 = <<2/3*2100000=1400000>>1400000 people living in New York.\nThe combined population of both states is 1400000+2100000 = <<1400000+2100000=3500000>>3500000\n#### 3500000"
+  },
+  {
+    "prompt": "John's neighbor tells him to walk his dog for 1 hour each day for a total of $10. He does this for April, save for the 4 Sundays in April. He later spent $50 on books and gave his sister Kaylee the same amount. How much money did John have left?",
+    "response_ground_truth": "April has 30 days, so if he didn't walk the dog on Sundays, he worked for a total of 30 days - 4 days = <<30-4=26>>26 days.\nIf each day he earned $10, he ends up with 26 days * $10/day = $<<26*10=260>>260 .\nAfter buying books and giving his sister $50, he ends up with $260 - $50 - $50 = $<<260-50-50=160>>160\n#### 160"
+  },
+  {
+    "prompt": "John's neighbor tells him to walk his dog for 1 hour each day for a total of $10. He does this for April, save for the 4 Sundays in April. He later spent $50 on books and gave his sister Kaylee the same amount. How much money did John have left?",
+    "response_ground_truth": "April has 30 days, so if he didn't walk the dog on Sundays, he worked for a total of 30 days - 4 days = <<30-4=26>>26 days.\nIf each day he earned $10, he ends up with 26 days * $10/day = $<<26*10=260>>260 .\nAfter buying books and giving his sister $50, he ends up with $260 - $50 - $50 = $<<260-50-50=160>>160\n#### 160"
+  },
+  {
+    "prompt": "John's neighbor tells him to walk his dog for 1 hour each day for a total of $10. He does this for April, save for the 4 Sundays in April. He later spent $50 on books and gave his sister Kaylee the same amount. How much money did John have left?",
+    "response_ground_truth": "April has 30 days, so if he didn't walk the dog on Sundays, he worked for a total of 30 days - 4 days = <<30-4=26>>26 days.\nIf each day he earned $10, he ends up with 26 days * $10/day = $<<26*10=260>>260 .\nAfter buying books and giving his sister $50, he ends up with $260 - $50 - $50 = $<<260-50-50=160>>160\n#### 160"
+  },
+  {
+    "prompt": "John's neighbor tells him to walk his dog for 1 hour each day for a total of $10. He does this for April, save for the 4 Sundays in April. He later spent $50 on books and gave his sister Kaylee the same amount. How much money did John have left?",
+    "response_ground_truth": "April has 30 days, so if he didn't walk the dog on Sundays, he worked for a total of 30 days - 4 days = <<30-4=26>>26 days.\nIf each day he earned $10, he ends up with 26 days * $10/day = $<<26*10=260>>260 .\nAfter buying books and giving his sister $50, he ends up with $260 - $50 - $50 = $<<260-50-50=160>>160\n#### 160"
+  },
+  {
+    "prompt": "John's neighbor tells him to walk his dog for 1 hour each day for a total of $10. He does this for April, save for the 4 Sundays in April. He later spent $50 on books and gave his sister Kaylee the same amount. How much money did John have left?",
+    "response_ground_truth": "April has 30 days, so if he didn't walk the dog on Sundays, he worked for a total of 30 days - 4 days = <<30-4=26>>26 days.\nIf each day he earned $10, he ends up with 26 days * $10/day = $<<26*10=260>>260 .\nAfter buying books and giving his sister $50, he ends up with $260 - $50 - $50 = $<<260-50-50=160>>160\n#### 160"
+  },
+  {
+    "prompt": "John's neighbor tells him to walk his dog for 1 hour each day for a total of $10. He does this for April, save for the 4 Sundays in April. He later spent $50 on books and gave his sister Kaylee the same amount. How much money did John have left?",
+    "response_ground_truth": "April has 30 days, so if he didn't walk the dog on Sundays, he worked for a total of 30 days - 4 days = <<30-4=26>>26 days.\nIf each day he earned $10, he ends up with 26 days * $10/day = $<<26*10=260>>260 .\nAfter buying books and giving his sister $50, he ends up with $260 - $50 - $50 = $<<260-50-50=160>>160\n#### 160"
+  },
+  {
+    "prompt": "John's neighbor tells him to walk his dog for 1 hour each day for a total of $10. He does this for April, save for the 4 Sundays in April. He later spent $50 on books and gave his sister Kaylee the same amount. How much money did John have left?",
+    "response_ground_truth": "April has 30 days, so if he didn't walk the dog on Sundays, he worked for a total of 30 days - 4 days = <<30-4=26>>26 days.\nIf each day he earned $10, he ends up with 26 days * $10/day = $<<26*10=260>>260 .\nAfter buying books and giving his sister $50, he ends up with $260 - $50 - $50 = $<<260-50-50=160>>160\n#### 160"
+  },
+  {
+    "prompt": "John's neighbor tells him to walk his dog for 1 hour each day for a total of $10. He does this for April, save for the 4 Sundays in April. He later spent $50 on books and gave his sister Kaylee the same amount. How much money did John have left?",
+    "response_ground_truth": "April has 30 days, so if he didn't walk the dog on Sundays, he worked for a total of 30 days - 4 days = <<30-4=26>>26 days.\nIf each day he earned $10, he ends up with 26 days * $10/day = $<<26*10=260>>260 .\nAfter buying books and giving his sister $50, he ends up with $260 - $50 - $50 = $<<260-50-50=160>>160\n#### 160"
+  },
+  {
+    "prompt": "James injured his ankle and decides to slowly start working back up to his previous running goals and then surpass them.  Before the injury, he was able to run 100 miles per week.  He wants to get up to 20% more than that total in 280 days and each week he will increase miles walked in the week by the same amount.  How many miles does he need to add per week?",
+    "response_ground_truth": "He wants to run 100*.2=<<100*.2=20>>20 miles more than he used to\nSo he needs to run 100+20=<<100+20=120>>120 miles\nHe is doing this in 280/7=<<280/7=40>>40 weeks\nSo he needs to add 120/40=<<120/40=3>>3 miles per week\n#### 3"
+  },
+  {
+    "prompt": "James injured his ankle and decides to slowly start working back up to his previous running goals and then surpass them.  Before the injury, he was able to run 100 miles per week.  He wants to get up to 20% more than that total in 280 days and each week he will increase miles walked in the week by the same amount.  How many miles does he need to add per week?",
+    "response_ground_truth": "He wants to run 100*.2=<<100*.2=20>>20 miles more than he used to\nSo he needs to run 100+20=<<100+20=120>>120 miles\nHe is doing this in 280/7=<<280/7=40>>40 weeks\nSo he needs to add 120/40=<<120/40=3>>3 miles per week\n#### 3"
+  },
+  {
+    "prompt": "James injured his ankle and decides to slowly start working back up to his previous running goals and then surpass them.  Before the injury, he was able to run 100 miles per week.  He wants to get up to 20% more than that total in 280 days and each week he will increase miles walked in the week by the same amount.  How many miles does he need to add per week?",
+    "response_ground_truth": "He wants to run 100*.2=<<100*.2=20>>20 miles more than he used to\nSo he needs to run 100+20=<<100+20=120>>120 miles\nHe is doing this in 280/7=<<280/7=40>>40 weeks\nSo he needs to add 120/40=<<120/40=3>>3 miles per week\n#### 3"
+  },
+  {
+    "prompt": "James injured his ankle and decides to slowly start working back up to his previous running goals and then surpass them.  Before the injury, he was able to run 100 miles per week.  He wants to get up to 20% more than that total in 280 days and each week he will increase miles walked in the week by the same amount.  How many miles does he need to add per week?",
+    "response_ground_truth": "He wants to run 100*.2=<<100*.2=20>>20 miles more than he used to\nSo he needs to run 100+20=<<100+20=120>>120 miles\nHe is doing this in 280/7=<<280/7=40>>40 weeks\nSo he needs to add 120/40=<<120/40=3>>3 miles per week\n#### 3"
+  },
+  {
+    "prompt": "James injured his ankle and decides to slowly start working back up to his previous running goals and then surpass them.  Before the injury, he was able to run 100 miles per week.  He wants to get up to 20% more than that total in 280 days and each week he will increase miles walked in the week by the same amount.  How many miles does he need to add per week?",
+    "response_ground_truth": "He wants to run 100*.2=<<100*.2=20>>20 miles more than he used to\nSo he needs to run 100+20=<<100+20=120>>120 miles\nHe is doing this in 280/7=<<280/7=40>>40 weeks\nSo he needs to add 120/40=<<120/40=3>>3 miles per week\n#### 3"
+  },
+  {
+    "prompt": "James injured his ankle and decides to slowly start working back up to his previous running goals and then surpass them.  Before the injury, he was able to run 100 miles per week.  He wants to get up to 20% more than that total in 280 days and each week he will increase miles walked in the week by the same amount.  How many miles does he need to add per week?",
+    "response_ground_truth": "He wants to run 100*.2=<<100*.2=20>>20 miles more than he used to\nSo he needs to run 100+20=<<100+20=120>>120 miles\nHe is doing this in 280/7=<<280/7=40>>40 weeks\nSo he needs to add 120/40=<<120/40=3>>3 miles per week\n#### 3"
+  },
+  {
+    "prompt": "James injured his ankle and decides to slowly start working back up to his previous running goals and then surpass them.  Before the injury, he was able to run 100 miles per week.  He wants to get up to 20% more than that total in 280 days and each week he will increase miles walked in the week by the same amount.  How many miles does he need to add per week?",
+    "response_ground_truth": "He wants to run 100*.2=<<100*.2=20>>20 miles more than he used to\nSo he needs to run 100+20=<<100+20=120>>120 miles\nHe is doing this in 280/7=<<280/7=40>>40 weeks\nSo he needs to add 120/40=<<120/40=3>>3 miles per week\n#### 3"
+  },
+  {
+    "prompt": "James injured his ankle and decides to slowly start working back up to his previous running goals and then surpass them.  Before the injury, he was able to run 100 miles per week.  He wants to get up to 20% more than that total in 280 days and each week he will increase miles walked in the week by the same amount.  How many miles does he need to add per week?",
+    "response_ground_truth": "He wants to run 100*.2=<<100*.2=20>>20 miles more than he used to\nSo he needs to run 100+20=<<100+20=120>>120 miles\nHe is doing this in 280/7=<<280/7=40>>40 weeks\nSo he needs to add 120/40=<<120/40=3>>3 miles per week\n#### 3"
+  },
+  {
+    "prompt": "Megan is making food for a party.  She has to spend 20 minutes preparing one dish in the oven.  Each dish can feed 5 people.  She spends 2 hours preparing as many of these dishes as she can for the party.  How many people can she feed with these dishes?",
+    "response_ground_truth": "First, we need to determine the total amount of minutes available for cooking. We do this by performing 2*60=<<2*60=120>>120, as there are 60 minutes in an hour.\nNow that we know we have 120 minutes, we then divide the preparation time into the total amount of time by performing 120/20= <<120/20=6>>6 dishes capable of being made.\nSince each dish can feed 5 people, we find the total number of people fed by performing 5*6=<<5*6=30>>30 people.\n#### 30"
+  },
+  {
+    "prompt": "Megan is making food for a party.  She has to spend 20 minutes preparing one dish in the oven.  Each dish can feed 5 people.  She spends 2 hours preparing as many of these dishes as she can for the party.  How many people can she feed with these dishes?",
+    "response_ground_truth": "First, we need to determine the total amount of minutes available for cooking. We do this by performing 2*60=<<2*60=120>>120, as there are 60 minutes in an hour.\nNow that we know we have 120 minutes, we then divide the preparation time into the total amount of time by performing 120/20= <<120/20=6>>6 dishes capable of being made.\nSince each dish can feed 5 people, we find the total number of people fed by performing 5*6=<<5*6=30>>30 people.\n#### 30"
+  },
+  {
+    "prompt": "Megan is making food for a party.  She has to spend 20 minutes preparing one dish in the oven.  Each dish can feed 5 people.  She spends 2 hours preparing as many of these dishes as she can for the party.  How many people can she feed with these dishes?",
+    "response_ground_truth": "First, we need to determine the total amount of minutes available for cooking. We do this by performing 2*60=<<2*60=120>>120, as there are 60 minutes in an hour.\nNow that we know we have 120 minutes, we then divide the preparation time into the total amount of time by performing 120/20= <<120/20=6>>6 dishes capable of being made.\nSince each dish can feed 5 people, we find the total number of people fed by performing 5*6=<<5*6=30>>30 people.\n#### 30"
+  },
+  {
+    "prompt": "Megan is making food for a party.  She has to spend 20 minutes preparing one dish in the oven.  Each dish can feed 5 people.  She spends 2 hours preparing as many of these dishes as she can for the party.  How many people can she feed with these dishes?",
+    "response_ground_truth": "First, we need to determine the total amount of minutes available for cooking. We do this by performing 2*60=<<2*60=120>>120, as there are 60 minutes in an hour.\nNow that we know we have 120 minutes, we then divide the preparation time into the total amount of time by performing 120/20= <<120/20=6>>6 dishes capable of being made.\nSince each dish can feed 5 people, we find the total number of people fed by performing 5*6=<<5*6=30>>30 people.\n#### 30"
+  },
+  {
+    "prompt": "Megan is making food for a party.  She has to spend 20 minutes preparing one dish in the oven.  Each dish can feed 5 people.  She spends 2 hours preparing as many of these dishes as she can for the party.  How many people can she feed with these dishes?",
+    "response_ground_truth": "First, we need to determine the total amount of minutes available for cooking. We do this by performing 2*60=<<2*60=120>>120, as there are 60 minutes in an hour.\nNow that we know we have 120 minutes, we then divide the preparation time into the total amount of time by performing 120/20= <<120/20=6>>6 dishes capable of being made.\nSince each dish can feed 5 people, we find the total number of people fed by performing 5*6=<<5*6=30>>30 people.\n#### 30"
+  },
+  {
+    "prompt": "Megan is making food for a party.  She has to spend 20 minutes preparing one dish in the oven.  Each dish can feed 5 people.  She spends 2 hours preparing as many of these dishes as she can for the party.  How many people can she feed with these dishes?",
+    "response_ground_truth": "First, we need to determine the total amount of minutes available for cooking. We do this by performing 2*60=<<2*60=120>>120, as there are 60 minutes in an hour.\nNow that we know we have 120 minutes, we then divide the preparation time into the total amount of time by performing 120/20= <<120/20=6>>6 dishes capable of being made.\nSince each dish can feed 5 people, we find the total number of people fed by performing 5*6=<<5*6=30>>30 people.\n#### 30"
+  },
+  {
+    "prompt": "Megan is making food for a party.  She has to spend 20 minutes preparing one dish in the oven.  Each dish can feed 5 people.  She spends 2 hours preparing as many of these dishes as she can for the party.  How many people can she feed with these dishes?",
+    "response_ground_truth": "First, we need to determine the total amount of minutes available for cooking. We do this by performing 2*60=<<2*60=120>>120, as there are 60 minutes in an hour.\nNow that we know we have 120 minutes, we then divide the preparation time into the total amount of time by performing 120/20= <<120/20=6>>6 dishes capable of being made.\nSince each dish can feed 5 people, we find the total number of people fed by performing 5*6=<<5*6=30>>30 people.\n#### 30"
+  },
+  {
+    "prompt": "Megan is making food for a party.  She has to spend 20 minutes preparing one dish in the oven.  Each dish can feed 5 people.  She spends 2 hours preparing as many of these dishes as she can for the party.  How many people can she feed with these dishes?",
+    "response_ground_truth": "First, we need to determine the total amount of minutes available for cooking. We do this by performing 2*60=<<2*60=120>>120, as there are 60 minutes in an hour.\nNow that we know we have 120 minutes, we then divide the preparation time into the total amount of time by performing 120/20= <<120/20=6>>6 dishes capable of being made.\nSince each dish can feed 5 people, we find the total number of people fed by performing 5*6=<<5*6=30>>30 people.\n#### 30"
+  },
+  {
+    "prompt": "There's a sale at your favorite \"Any item $10\" retailer. If you buy 1 shirt you pay $10. If you buy 2, you get the second one at a 50% discount. If you buy 3, you get the third one at a 60% discount. How much money did you save if you bought 3 shirts?",
+    "response_ground_truth": "The first shirt has no (0%) discount off the regular price ($10), therefore your discount is = 0% * $10 = $<<0*.01*10=0>>0\nThe second shirt has a 50% discount off the regular price ($10), therefore your discount is = 50% * $10 = $<<50*.01*10=5>>5\nThe third shirt has a 60% discount of the regular price ($10), therefore your discount is = 60% * $10 = $<<60*.01*10=6>>6\nTherefore in total, you save $0 on the first shirt, $5 on the second one and $6 on the third one = 0+5+6 = $<<0+5+6=11>>11\n#### 11"
+  },
+  {
+    "prompt": "There's a sale at your favorite \"Any item $10\" retailer. If you buy 1 shirt you pay $10. If you buy 2, you get the second one at a 50% discount. If you buy 3, you get the third one at a 60% discount. How much money did you save if you bought 3 shirts?",
+    "response_ground_truth": "The first shirt has no (0%) discount off the regular price ($10), therefore your discount is = 0% * $10 = $<<0*.01*10=0>>0\nThe second shirt has a 50% discount off the regular price ($10), therefore your discount is = 50% * $10 = $<<50*.01*10=5>>5\nThe third shirt has a 60% discount of the regular price ($10), therefore your discount is = 60% * $10 = $<<60*.01*10=6>>6\nTherefore in total, you save $0 on the first shirt, $5 on the second one and $6 on the third one = 0+5+6 = $<<0+5+6=11>>11\n#### 11"
+  },
+  {
+    "prompt": "There's a sale at your favorite \"Any item $10\" retailer. If you buy 1 shirt you pay $10. If you buy 2, you get the second one at a 50% discount. If you buy 3, you get the third one at a 60% discount. How much money did you save if you bought 3 shirts?",
+    "response_ground_truth": "The first shirt has no (0%) discount off the regular price ($10), therefore your discount is = 0% * $10 = $<<0*.01*10=0>>0\nThe second shirt has a 50% discount off the regular price ($10), therefore your discount is = 50% * $10 = $<<50*.01*10=5>>5\nThe third shirt has a 60% discount of the regular price ($10), therefore your discount is = 60% * $10 = $<<60*.01*10=6>>6\nTherefore in total, you save $0 on the first shirt, $5 on the second one and $6 on the third one = 0+5+6 = $<<0+5+6=11>>11\n#### 11"
+  },
+  {
+    "prompt": "There's a sale at your favorite \"Any item $10\" retailer. If you buy 1 shirt you pay $10. If you buy 2, you get the second one at a 50% discount. If you buy 3, you get the third one at a 60% discount. How much money did you save if you bought 3 shirts?",
+    "response_ground_truth": "The first shirt has no (0%) discount off the regular price ($10), therefore your discount is = 0% * $10 = $<<0*.01*10=0>>0\nThe second shirt has a 50% discount off the regular price ($10), therefore your discount is = 50% * $10 = $<<50*.01*10=5>>5\nThe third shirt has a 60% discount of the regular price ($10), therefore your discount is = 60% * $10 = $<<60*.01*10=6>>6\nTherefore in total, you save $0 on the first shirt, $5 on the second one and $6 on the third one = 0+5+6 = $<<0+5+6=11>>11\n#### 11"
+  },
+  {
+    "prompt": "There's a sale at your favorite \"Any item $10\" retailer. If you buy 1 shirt you pay $10. If you buy 2, you get the second one at a 50% discount. If you buy 3, you get the third one at a 60% discount. How much money did you save if you bought 3 shirts?",
+    "response_ground_truth": "The first shirt has no (0%) discount off the regular price ($10), therefore your discount is = 0% * $10 = $<<0*.01*10=0>>0\nThe second shirt has a 50% discount off the regular price ($10), therefore your discount is = 50% * $10 = $<<50*.01*10=5>>5\nThe third shirt has a 60% discount of the regular price ($10), therefore your discount is = 60% * $10 = $<<60*.01*10=6>>6\nTherefore in total, you save $0 on the first shirt, $5 on the second one and $6 on the third one = 0+5+6 = $<<0+5+6=11>>11\n#### 11"
+  },
+  {
+    "prompt": "There's a sale at your favorite \"Any item $10\" retailer. If you buy 1 shirt you pay $10. If you buy 2, you get the second one at a 50% discount. If you buy 3, you get the third one at a 60% discount. How much money did you save if you bought 3 shirts?",
+    "response_ground_truth": "The first shirt has no (0%) discount off the regular price ($10), therefore your discount is = 0% * $10 = $<<0*.01*10=0>>0\nThe second shirt has a 50% discount off the regular price ($10), therefore your discount is = 50% * $10 = $<<50*.01*10=5>>5\nThe third shirt has a 60% discount of the regular price ($10), therefore your discount is = 60% * $10 = $<<60*.01*10=6>>6\nTherefore in total, you save $0 on the first shirt, $5 on the second one and $6 on the third one = 0+5+6 = $<<0+5+6=11>>11\n#### 11"
+  },
+  {
+    "prompt": "There's a sale at your favorite \"Any item $10\" retailer. If you buy 1 shirt you pay $10. If you buy 2, you get the second one at a 50% discount. If you buy 3, you get the third one at a 60% discount. How much money did you save if you bought 3 shirts?",
+    "response_ground_truth": "The first shirt has no (0%) discount off the regular price ($10), therefore your discount is = 0% * $10 = $<<0*.01*10=0>>0\nThe second shirt has a 50% discount off the regular price ($10), therefore your discount is = 50% * $10 = $<<50*.01*10=5>>5\nThe third shirt has a 60% discount of the regular price ($10), therefore your discount is = 60% * $10 = $<<60*.01*10=6>>6\nTherefore in total, you save $0 on the first shirt, $5 on the second one and $6 on the third one = 0+5+6 = $<<0+5+6=11>>11\n#### 11"
+  },
+  {
+    "prompt": "There's a sale at your favorite \"Any item $10\" retailer. If you buy 1 shirt you pay $10. If you buy 2, you get the second one at a 50% discount. If you buy 3, you get the third one at a 60% discount. How much money did you save if you bought 3 shirts?",
+    "response_ground_truth": "The first shirt has no (0%) discount off the regular price ($10), therefore your discount is = 0% * $10 = $<<0*.01*10=0>>0\nThe second shirt has a 50% discount off the regular price ($10), therefore your discount is = 50% * $10 = $<<50*.01*10=5>>5\nThe third shirt has a 60% discount of the regular price ($10), therefore your discount is = 60% * $10 = $<<60*.01*10=6>>6\nTherefore in total, you save $0 on the first shirt, $5 on the second one and $6 on the third one = 0+5+6 = $<<0+5+6=11>>11\n#### 11"
+  },
+  {
+    "prompt": "Mason, Noah and Jacob want to have an eating contest but can't agree on what food to eat. Mason wants hot dogs, Noah insists on burgers, and Jacob thinks they should eat pies. They finally agree that everyone can eat whatever they want and they'll use the weight of the food to determine who wins. A hot dog weighs 2 ounces, a burger weighs 5 ounces, and a pie weighs 10 ounces. Jacob eats three fewer pies than Noah eats burgers. Mason eats 3 times as many hotdogs as the number of pies consumed by Jacob. If Noah ate 8 burgers, what is the total weight of the hotdogs that Mason ate?",
+    "response_ground_truth": "Jacob ate 8 – 3 = <<8-3=5>>5 pies.\nNoah ate 5 * 3 = <<5*3=15>>15 hotdogs.\nThe total weight of the hotdogs was 15 * 2 ounces = <<15*2=30>>30 ounces.\n#### 30"
+  },
+  {
+    "prompt": "Mason, Noah and Jacob want to have an eating contest but can't agree on what food to eat. Mason wants hot dogs, Noah insists on burgers, and Jacob thinks they should eat pies. They finally agree that everyone can eat whatever they want and they'll use the weight of the food to determine who wins. A hot dog weighs 2 ounces, a burger weighs 5 ounces, and a pie weighs 10 ounces. Jacob eats three fewer pies than Noah eats burgers. Mason eats 3 times as many hotdogs as the number of pies consumed by Jacob. If Noah ate 8 burgers, what is the total weight of the hotdogs that Mason ate?",
+    "response_ground_truth": "Jacob ate 8 – 3 = <<8-3=5>>5 pies.\nNoah ate 5 * 3 = <<5*3=15>>15 hotdogs.\nThe total weight of the hotdogs was 15 * 2 ounces = <<15*2=30>>30 ounces.\n#### 30"
+  },
+  {
+    "prompt": "Mason, Noah and Jacob want to have an eating contest but can't agree on what food to eat. Mason wants hot dogs, Noah insists on burgers, and Jacob thinks they should eat pies. They finally agree that everyone can eat whatever they want and they'll use the weight of the food to determine who wins. A hot dog weighs 2 ounces, a burger weighs 5 ounces, and a pie weighs 10 ounces. Jacob eats three fewer pies than Noah eats burgers. Mason eats 3 times as many hotdogs as the number of pies consumed by Jacob. If Noah ate 8 burgers, what is the total weight of the hotdogs that Mason ate?",
+    "response_ground_truth": "Jacob ate 8 – 3 = <<8-3=5>>5 pies.\nNoah ate 5 * 3 = <<5*3=15>>15 hotdogs.\nThe total weight of the hotdogs was 15 * 2 ounces = <<15*2=30>>30 ounces.\n#### 30"
+  },
+  {
+    "prompt": "Mason, Noah and Jacob want to have an eating contest but can't agree on what food to eat. Mason wants hot dogs, Noah insists on burgers, and Jacob thinks they should eat pies. They finally agree that everyone can eat whatever they want and they'll use the weight of the food to determine who wins. A hot dog weighs 2 ounces, a burger weighs 5 ounces, and a pie weighs 10 ounces. Jacob eats three fewer pies than Noah eats burgers. Mason eats 3 times as many hotdogs as the number of pies consumed by Jacob. If Noah ate 8 burgers, what is the total weight of the hotdogs that Mason ate?",
+    "response_ground_truth": "Jacob ate 8 – 3 = <<8-3=5>>5 pies.\nNoah ate 5 * 3 = <<5*3=15>>15 hotdogs.\nThe total weight of the hotdogs was 15 * 2 ounces = <<15*2=30>>30 ounces.\n#### 30"
+  },
+  {
+    "prompt": "Mason, Noah and Jacob want to have an eating contest but can't agree on what food to eat. Mason wants hot dogs, Noah insists on burgers, and Jacob thinks they should eat pies. They finally agree that everyone can eat whatever they want and they'll use the weight of the food to determine who wins. A hot dog weighs 2 ounces, a burger weighs 5 ounces, and a pie weighs 10 ounces. Jacob eats three fewer pies than Noah eats burgers. Mason eats 3 times as many hotdogs as the number of pies consumed by Jacob. If Noah ate 8 burgers, what is the total weight of the hotdogs that Mason ate?",
+    "response_ground_truth": "Jacob ate 8 – 3 = <<8-3=5>>5 pies.\nNoah ate 5 * 3 = <<5*3=15>>15 hotdogs.\nThe total weight of the hotdogs was 15 * 2 ounces = <<15*2=30>>30 ounces.\n#### 30"
+  },
+  {
+    "prompt": "Mason, Noah and Jacob want to have an eating contest but can't agree on what food to eat. Mason wants hot dogs, Noah insists on burgers, and Jacob thinks they should eat pies. They finally agree that everyone can eat whatever they want and they'll use the weight of the food to determine who wins. A hot dog weighs 2 ounces, a burger weighs 5 ounces, and a pie weighs 10 ounces. Jacob eats three fewer pies than Noah eats burgers. Mason eats 3 times as many hotdogs as the number of pies consumed by Jacob. If Noah ate 8 burgers, what is the total weight of the hotdogs that Mason ate?",
+    "response_ground_truth": "Jacob ate 8 – 3 = <<8-3=5>>5 pies.\nNoah ate 5 * 3 = <<5*3=15>>15 hotdogs.\nThe total weight of the hotdogs was 15 * 2 ounces = <<15*2=30>>30 ounces.\n#### 30"
+  },
+  {
+    "prompt": "Mason, Noah and Jacob want to have an eating contest but can't agree on what food to eat. Mason wants hot dogs, Noah insists on burgers, and Jacob thinks they should eat pies. They finally agree that everyone can eat whatever they want and they'll use the weight of the food to determine who wins. A hot dog weighs 2 ounces, a burger weighs 5 ounces, and a pie weighs 10 ounces. Jacob eats three fewer pies than Noah eats burgers. Mason eats 3 times as many hotdogs as the number of pies consumed by Jacob. If Noah ate 8 burgers, what is the total weight of the hotdogs that Mason ate?",
+    "response_ground_truth": "Jacob ate 8 – 3 = <<8-3=5>>5 pies.\nNoah ate 5 * 3 = <<5*3=15>>15 hotdogs.\nThe total weight of the hotdogs was 15 * 2 ounces = <<15*2=30>>30 ounces.\n#### 30"
+  },
+  {
+    "prompt": "Mason, Noah and Jacob want to have an eating contest but can't agree on what food to eat. Mason wants hot dogs, Noah insists on burgers, and Jacob thinks they should eat pies. They finally agree that everyone can eat whatever they want and they'll use the weight of the food to determine who wins. A hot dog weighs 2 ounces, a burger weighs 5 ounces, and a pie weighs 10 ounces. Jacob eats three fewer pies than Noah eats burgers. Mason eats 3 times as many hotdogs as the number of pies consumed by Jacob. If Noah ate 8 burgers, what is the total weight of the hotdogs that Mason ate?",
+    "response_ground_truth": "Jacob ate 8 – 3 = <<8-3=5>>5 pies.\nNoah ate 5 * 3 = <<5*3=15>>15 hotdogs.\nThe total weight of the hotdogs was 15 * 2 ounces = <<15*2=30>>30 ounces.\n#### 30"
+  },
+  {
+    "prompt": "The price of a home is $98 per square foot (sq ft).  The house is 2,400 sq ft and the barn out back is 1,000 sq ft.  How much is this property?",
+    "response_ground_truth": "The house is 2,400 sq ft and the barn is 1,000 sq ft so it's 2400+1000 = <<2400+1000=3400>>3,400 sq ft\nThe price is $98 per sq ft and it's 3,400 sq ft big so the property costs 98*3400 = $<<98*3400=333200.00>>333,200.00\n#### 333200"
+  },
+  {
+    "prompt": "The price of a home is $98 per square foot (sq ft).  The house is 2,400 sq ft and the barn out back is 1,000 sq ft.  How much is this property?",
+    "response_ground_truth": "The house is 2,400 sq ft and the barn is 1,000 sq ft so it's 2400+1000 = <<2400+1000=3400>>3,400 sq ft\nThe price is $98 per sq ft and it's 3,400 sq ft big so the property costs 98*3400 = $<<98*3400=333200.00>>333,200.00\n#### 333200"
+  },
+  {
+    "prompt": "The price of a home is $98 per square foot (sq ft).  The house is 2,400 sq ft and the barn out back is 1,000 sq ft.  How much is this property?",
+    "response_ground_truth": "The house is 2,400 sq ft and the barn is 1,000 sq ft so it's 2400+1000 = <<2400+1000=3400>>3,400 sq ft\nThe price is $98 per sq ft and it's 3,400 sq ft big so the property costs 98*3400 = $<<98*3400=333200.00>>333,200.00\n#### 333200"
+  },
+  {
+    "prompt": "The price of a home is $98 per square foot (sq ft).  The house is 2,400 sq ft and the barn out back is 1,000 sq ft.  How much is this property?",
+    "response_ground_truth": "The house is 2,400 sq ft and the barn is 1,000 sq ft so it's 2400+1000 = <<2400+1000=3400>>3,400 sq ft\nThe price is $98 per sq ft and it's 3,400 sq ft big so the property costs 98*3400 = $<<98*3400=333200.00>>333,200.00\n#### 333200"
+  },
+  {
+    "prompt": "The price of a home is $98 per square foot (sq ft).  The house is 2,400 sq ft and the barn out back is 1,000 sq ft.  How much is this property?",
+    "response_ground_truth": "The house is 2,400 sq ft and the barn is 1,000 sq ft so it's 2400+1000 = <<2400+1000=3400>>3,400 sq ft\nThe price is $98 per sq ft and it's 3,400 sq ft big so the property costs 98*3400 = $<<98*3400=333200.00>>333,200.00\n#### 333200"
+  },
+  {
+    "prompt": "The price of a home is $98 per square foot (sq ft).  The house is 2,400 sq ft and the barn out back is 1,000 sq ft.  How much is this property?",
+    "response_ground_truth": "The house is 2,400 sq ft and the barn is 1,000 sq ft so it's 2400+1000 = <<2400+1000=3400>>3,400 sq ft\nThe price is $98 per sq ft and it's 3,400 sq ft big so the property costs 98*3400 = $<<98*3400=333200.00>>333,200.00\n#### 333200"
+  },
+  {
+    "prompt": "The price of a home is $98 per square foot (sq ft).  The house is 2,400 sq ft and the barn out back is 1,000 sq ft.  How much is this property?",
+    "response_ground_truth": "The house is 2,400 sq ft and the barn is 1,000 sq ft so it's 2400+1000 = <<2400+1000=3400>>3,400 sq ft\nThe price is $98 per sq ft and it's 3,400 sq ft big so the property costs 98*3400 = $<<98*3400=333200.00>>333,200.00\n#### 333200"
+  },
+  {
+    "prompt": "The price of a home is $98 per square foot (sq ft).  The house is 2,400 sq ft and the barn out back is 1,000 sq ft.  How much is this property?",
+    "response_ground_truth": "The house is 2,400 sq ft and the barn is 1,000 sq ft so it's 2400+1000 = <<2400+1000=3400>>3,400 sq ft\nThe price is $98 per sq ft and it's 3,400 sq ft big so the property costs 98*3400 = $<<98*3400=333200.00>>333,200.00\n#### 333200"
+  },
+  {
+    "prompt": "Adam has 50 balls. 20 balls are red, 10 are blue, and the rest are either pink or orange. If there are 3 times as many pink as orange balls, how many orange balls are there?",
+    "response_ground_truth": "Adam has a total of 50 balls - 20 red - 10 blue = <<50-20-10=20>>20 pink and orange balls combined\nIf we let x be the total number of orange balls, we know that 3x is the number of pink balls\nTherefore, 20 balls = x + 3x = 4x\nThe number of orange balls, x, is 20 balls / 4 = <<20/4=5>>5 balls\n#### 5"
+  },
+  {
+    "prompt": "Adam has 50 balls. 20 balls are red, 10 are blue, and the rest are either pink or orange. If there are 3 times as many pink as orange balls, how many orange balls are there?",
+    "response_ground_truth": "Adam has a total of 50 balls - 20 red - 10 blue = <<50-20-10=20>>20 pink and orange balls combined\nIf we let x be the total number of orange balls, we know that 3x is the number of pink balls\nTherefore, 20 balls = x + 3x = 4x\nThe number of orange balls, x, is 20 balls / 4 = <<20/4=5>>5 balls\n#### 5"
+  },
+  {
+    "prompt": "Adam has 50 balls. 20 balls are red, 10 are blue, and the rest are either pink or orange. If there are 3 times as many pink as orange balls, how many orange balls are there?",
+    "response_ground_truth": "Adam has a total of 50 balls - 20 red - 10 blue = <<50-20-10=20>>20 pink and orange balls combined\nIf we let x be the total number of orange balls, we know that 3x is the number of pink balls\nTherefore, 20 balls = x + 3x = 4x\nThe number of orange balls, x, is 20 balls / 4 = <<20/4=5>>5 balls\n#### 5"
+  },
+  {
+    "prompt": "Adam has 50 balls. 20 balls are red, 10 are blue, and the rest are either pink or orange. If there are 3 times as many pink as orange balls, how many orange balls are there?",
+    "response_ground_truth": "Adam has a total of 50 balls - 20 red - 10 blue = <<50-20-10=20>>20 pink and orange balls combined\nIf we let x be the total number of orange balls, we know that 3x is the number of pink balls\nTherefore, 20 balls = x + 3x = 4x\nThe number of orange balls, x, is 20 balls / 4 = <<20/4=5>>5 balls\n#### 5"
+  },
+  {
+    "prompt": "Adam has 50 balls. 20 balls are red, 10 are blue, and the rest are either pink or orange. If there are 3 times as many pink as orange balls, how many orange balls are there?",
+    "response_ground_truth": "Adam has a total of 50 balls - 20 red - 10 blue = <<50-20-10=20>>20 pink and orange balls combined\nIf we let x be the total number of orange balls, we know that 3x is the number of pink balls\nTherefore, 20 balls = x + 3x = 4x\nThe number of orange balls, x, is 20 balls / 4 = <<20/4=5>>5 balls\n#### 5"
+  },
+  {
+    "prompt": "Adam has 50 balls. 20 balls are red, 10 are blue, and the rest are either pink or orange. If there are 3 times as many pink as orange balls, how many orange balls are there?",
+    "response_ground_truth": "Adam has a total of 50 balls - 20 red - 10 blue = <<50-20-10=20>>20 pink and orange balls combined\nIf we let x be the total number of orange balls, we know that 3x is the number of pink balls\nTherefore, 20 balls = x + 3x = 4x\nThe number of orange balls, x, is 20 balls / 4 = <<20/4=5>>5 balls\n#### 5"
+  },
+  {
+    "prompt": "Adam has 50 balls. 20 balls are red, 10 are blue, and the rest are either pink or orange. If there are 3 times as many pink as orange balls, how many orange balls are there?",
+    "response_ground_truth": "Adam has a total of 50 balls - 20 red - 10 blue = <<50-20-10=20>>20 pink and orange balls combined\nIf we let x be the total number of orange balls, we know that 3x is the number of pink balls\nTherefore, 20 balls = x + 3x = 4x\nThe number of orange balls, x, is 20 balls / 4 = <<20/4=5>>5 balls\n#### 5"
+  },
+  {
+    "prompt": "Adam has 50 balls. 20 balls are red, 10 are blue, and the rest are either pink or orange. If there are 3 times as many pink as orange balls, how many orange balls are there?",
+    "response_ground_truth": "Adam has a total of 50 balls - 20 red - 10 blue = <<50-20-10=20>>20 pink and orange balls combined\nIf we let x be the total number of orange balls, we know that 3x is the number of pink balls\nTherefore, 20 balls = x + 3x = 4x\nThe number of orange balls, x, is 20 balls / 4 = <<20/4=5>>5 balls\n#### 5"
+  },
+  {
+    "prompt": "It takes Jennifer 20 minutes to groom each of her 2 long hair dachshunds.  If she grooms her dogs every day, how many hours does she spend grooming her dogs in 30 days?",
+    "response_ground_truth": "She has 2 dogs and it takes 20 minutes to groom just 1 dog so it takes her 2*20 = <<2*20=40>>40 minutes per day to groom 2 dogs\nIn 30 days, she will have spent 30*40 = <<30*40=1200>>1,200 minutes grooming her dogs\nThere are 60 minutes in an hour so she spends 1200/60 = <<1200/60=20>>20 hours grooming her dogs\n#### 20"
+  },
+  {
+    "prompt": "It takes Jennifer 20 minutes to groom each of her 2 long hair dachshunds.  If she grooms her dogs every day, how many hours does she spend grooming her dogs in 30 days?",
+    "response_ground_truth": "She has 2 dogs and it takes 20 minutes to groom just 1 dog so it takes her 2*20 = <<2*20=40>>40 minutes per day to groom 2 dogs\nIn 30 days, she will have spent 30*40 = <<30*40=1200>>1,200 minutes grooming her dogs\nThere are 60 minutes in an hour so she spends 1200/60 = <<1200/60=20>>20 hours grooming her dogs\n#### 20"
+  },
+  {
+    "prompt": "It takes Jennifer 20 minutes to groom each of her 2 long hair dachshunds.  If she grooms her dogs every day, how many hours does she spend grooming her dogs in 30 days?",
+    "response_ground_truth": "She has 2 dogs and it takes 20 minutes to groom just 1 dog so it takes her 2*20 = <<2*20=40>>40 minutes per day to groom 2 dogs\nIn 30 days, she will have spent 30*40 = <<30*40=1200>>1,200 minutes grooming her dogs\nThere are 60 minutes in an hour so she spends 1200/60 = <<1200/60=20>>20 hours grooming her dogs\n#### 20"
+  },
+  {
+    "prompt": "It takes Jennifer 20 minutes to groom each of her 2 long hair dachshunds.  If she grooms her dogs every day, how many hours does she spend grooming her dogs in 30 days?",
+    "response_ground_truth": "She has 2 dogs and it takes 20 minutes to groom just 1 dog so it takes her 2*20 = <<2*20=40>>40 minutes per day to groom 2 dogs\nIn 30 days, she will have spent 30*40 = <<30*40=1200>>1,200 minutes grooming her dogs\nThere are 60 minutes in an hour so she spends 1200/60 = <<1200/60=20>>20 hours grooming her dogs\n#### 20"
+  },
+  {
+    "prompt": "It takes Jennifer 20 minutes to groom each of her 2 long hair dachshunds.  If she grooms her dogs every day, how many hours does she spend grooming her dogs in 30 days?",
+    "response_ground_truth": "She has 2 dogs and it takes 20 minutes to groom just 1 dog so it takes her 2*20 = <<2*20=40>>40 minutes per day to groom 2 dogs\nIn 30 days, she will have spent 30*40 = <<30*40=1200>>1,200 minutes grooming her dogs\nThere are 60 minutes in an hour so she spends 1200/60 = <<1200/60=20>>20 hours grooming her dogs\n#### 20"
+  },
+  {
+    "prompt": "It takes Jennifer 20 minutes to groom each of her 2 long hair dachshunds.  If she grooms her dogs every day, how many hours does she spend grooming her dogs in 30 days?",
+    "response_ground_truth": "She has 2 dogs and it takes 20 minutes to groom just 1 dog so it takes her 2*20 = <<2*20=40>>40 minutes per day to groom 2 dogs\nIn 30 days, she will have spent 30*40 = <<30*40=1200>>1,200 minutes grooming her dogs\nThere are 60 minutes in an hour so she spends 1200/60 = <<1200/60=20>>20 hours grooming her dogs\n#### 20"
+  },
+  {
+    "prompt": "It takes Jennifer 20 minutes to groom each of her 2 long hair dachshunds.  If she grooms her dogs every day, how many hours does she spend grooming her dogs in 30 days?",
+    "response_ground_truth": "She has 2 dogs and it takes 20 minutes to groom just 1 dog so it takes her 2*20 = <<2*20=40>>40 minutes per day to groom 2 dogs\nIn 30 days, she will have spent 30*40 = <<30*40=1200>>1,200 minutes grooming her dogs\nThere are 60 minutes in an hour so she spends 1200/60 = <<1200/60=20>>20 hours grooming her dogs\n#### 20"
+  },
+  {
+    "prompt": "It takes Jennifer 20 minutes to groom each of her 2 long hair dachshunds.  If she grooms her dogs every day, how many hours does she spend grooming her dogs in 30 days?",
+    "response_ground_truth": "She has 2 dogs and it takes 20 minutes to groom just 1 dog so it takes her 2*20 = <<2*20=40>>40 minutes per day to groom 2 dogs\nIn 30 days, she will have spent 30*40 = <<30*40=1200>>1,200 minutes grooming her dogs\nThere are 60 minutes in an hour so she spends 1200/60 = <<1200/60=20>>20 hours grooming her dogs\n#### 20"
+  }
+]
